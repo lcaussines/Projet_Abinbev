@@ -3,7 +3,7 @@
     <contextParameter comment="" name="FSTOK9_AS400_connection_AdditionalParams" prompt="FSTOK9_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value=""/>
     <contextParameter comment="" name="FSTOK9_AS400_connection_Database" prompt="FSTOK9_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="FSTOK9"/>
     <contextParameter comment="" name="FSTOK9_AS400_connection_Login" prompt="FSTOK9_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="TALEND"/>
-    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_Password" value="enc:system.encryption.key.v1:t69+D7b95jX0SLgzeXk1t2znMth1WUl0BY95D3JMnkZ50W4s+VA="/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_Password" value="enc:system.encryption.key.v1:NoWyg1/IpqotEEg6meG3F2PO5Z+Exea4W6AKunEi2nMXJo7WKUc="/>
     <contextParameter comment="" name="FSTOK9_AS400_connection_Server" prompt="FSTOK9_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="QPOWERM4"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_account" prompt="Snowflake_connexion_DWH_DEV_account?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="groupe_bils_deroo"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_authenticationType" prompt="Snowflake_connexion_DWH_DEV_authenticationType?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="BASIC"/>
@@ -15,7 +15,7 @@
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_region" prompt="Snowflake_connexion_DWH_DEV_region?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="AWS_US_WEST"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_role" prompt="Snowflake_connexion_DWH_DEV_role?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_schemaName" prompt="Snowflake_connexion_DWH_DEV_schemaName?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:tvjyfyXdvzCk0mhCny+0wUwP95iZ7OBithalLX7VoMYQbJlOqGvGmA=="/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:EVWw9O7+l9LHBVO5y4YpATcBKcJHakIym5q/AOPSTa4jb9eed7dn+w=="/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_userId" prompt="Snowflake_connexion_DWH_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="lcaussines@bils-deroo.fr"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_warehouse" prompt="Snowflake_connexion_DWH_DEV_warehouse?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="WH_ETL_DEV"/>
   </context>
@@ -23,7 +23,7 @@
     <contextParameter comment="" name="FSTOK9_AS400_connection_AdditionalParams" prompt="FSTOK9_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value=""/>
     <contextParameter comment="" name="FSTOK9_AS400_connection_Database" prompt="FSTOK9_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="FSTOK9"/>
     <contextParameter comment="" name="FSTOK9_AS400_connection_Login" prompt="FSTOK9_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="TALEND"/>
-    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_Password" value="enc:system.encryption.key.v1:oLovGcrCoN2BcVPrDxJ9HW3b6cB6W3vjHga/zJklQqd1Oqnh12s="/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_Password" value="enc:system.encryption.key.v1:rzm3kszc7DT2ciEkevavNyXPOMIZbvKx8SiVIp+q8ng6QLz/8Es="/>
     <contextParameter comment="" name="FSTOK9_AS400_connection_Server" prompt="FSTOK9_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="QPOWERM4"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_account" prompt="Snowflake_connexion_DWH_DEV_account?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="groupe_bils_deroo"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_authenticationType" prompt="Snowflake_connexion_DWH_DEV_authenticationType?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="BASIC"/>
@@ -35,7 +35,7 @@
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_region" prompt="Snowflake_connexion_DWH_DEV_region?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="AWS_US_WEST"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_role" prompt="Snowflake_connexion_DWH_DEV_role?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_schemaName" prompt="Snowflake_connexion_DWH_DEV_schemaName?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:3b16gQmtYL16jgwO+7mLBkMjf+DGYVgxKbskaB6xH5YLPEtP+FGt5g=="/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:rJ5/tAXQSMZpcyghijusAD+z2WR0Z/YMAh1QAWBLxfwUl/s0an6HyA=="/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_userId" prompt="Snowflake_connexion_DWH_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="lcaussines@bils-deroo.fr"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_warehouse" prompt="Snowflake_connexion_DWH_DEV_warehouse?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="WH_ETL_DEV"/>
   </context>
@@ -81,7 +81,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:Ag2SIVT6BTPEu/jqilbbPkRwFfpAWIvAv2Er1dKR"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:01GQdhx57jQ8Qh1GpKn5ILYy0DeQxPu3A4B+zVIV"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -116,7 +116,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:FN93MSaPTKdDTFG+FSrWfZzXlkS+cJSRsLadsz7M"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:qgqUFFCBwH3TAiahosK/FB8oqUZr3YuMezBtMu66"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -146,12 +146,12 @@
     <routinesParameter id="_aIbPcAMEEeumBJpBH3QJxg" name="TalendStringUtil"/>
     <routinesParameter id="_aIT6sAMEEeumBJpBH3QJxg" name="TalendString"/>
   </parameters>
-  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1312" posY="96">
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="480" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRunJob_21"/>
     <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
     <elementParameter field="TEXT" name="CONTEXT_JOB" show="false" value=""/>
     <elementParameter field="PROCESS_TYPE" name="PROCESS" value="FSTOK9_vers_ODS_V3CDEETBL"/>
-    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="Default"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="DEV"/>
     <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="PROJET_ABINBEV:_jJauYMZ1Eeq6evTLQ-eBsg"/>
     <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
     <elementParameter field="TEXT" name="CONTEXT_NAME" show="false" value="Default"/>
@@ -169,12 +169,12 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tRunJob_21"/>
   </node>
-  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="160" posY="96">
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="832" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRunJob_28"/>
     <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
     <elementParameter field="TEXT" name="CONTEXT_JOB" show="false" value=""/>
     <elementParameter field="PROCESS_TYPE" name="PROCESS" value="FSTOK9_vers_ODS_V3CDELTBL"/>
-    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="Default"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="DEV"/>
     <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="PROJET_ABINBEV:_vZZSQMZ1Eeq6evTLQ-eBsg"/>
     <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
     <elementParameter field="TEXT" name="CONTEXT_NAME" show="false" value="Default"/>
@@ -192,7 +192,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tRunJob_28"/>
   </node>
-  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="544" posY="96">
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1536" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRunJob_36"/>
     <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
     <elementParameter field="TEXT" name="CONTEXT_JOB" show="false" value=""/>
@@ -215,12 +215,12 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tRunJob_36"/>
   </node>
-  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="928" posY="96">
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="1184" posY="96">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRunJob_45"/>
     <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
     <elementParameter field="TEXT" name="CONTEXT_JOB" show="false" value=""/>
     <elementParameter field="PROCESS_TYPE" name="PROCESS" value="FSTOK9_vers_ODS_V3OPTIDOPF"/>
-    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="Default"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="DEV"/>
     <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="PROJET_ABINBEV:_6FzxoMZ1Eeq6evTLQ-eBsg"/>
     <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
     <elementParameter field="TEXT" name="CONTEXT_NAME" show="false" value="Default"/>
@@ -238,14 +238,40 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tRunJob_45"/>
   </node>
-  <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tRunJob_21" offsetLabelX="0" offsetLabelY="0" source="tRunJob_21" target="tRunJob_45">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk6"/>
+  <node componentName="tRunJob" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="128" posY="96">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRunJob_1"/>
+    <elementParameter field="CHECK" name="USE_DYNAMIC_JOB" value="false"/>
+    <elementParameter field="TEXT" name="CONTEXT_JOB" show="false" value=""/>
+    <elementParameter field="PROCESS_TYPE" name="PROCESS" value="FSTOK9_vers_ODS_RFARTPF"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_CONTEXT" value="DEV"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_PROCESS" value="PROJET_ABINBEV:_Y_Av4MZ1Eeq6evTLQ-eBsg"/>
+    <elementParameter field="TECHNICAL" name="PROCESS:PROCESS_TYPE_VERSION" value="Latest"/>
+    <elementParameter field="TEXT" name="CONTEXT_NAME" show="false" value="Default"/>
+    <elementParameter field="CHECK" name="USE_INDEPENDENT_PROCESS" value="false"/>
+    <elementParameter field="CHECK" name="DIE_ON_CHILD_ERROR" value="true"/>
+    <elementParameter field="CHECK" name="TRANSMIT_WHOLE_CONTEXT" value="false"/>
+    <elementParameter field="TABLE" name="CONTEXTPARAMS"/>
+    <elementParameter field="CHECK" name="PROPAGATE_CHILD_RESULT" value="false"/>
+    <elementParameter field="CHECK" name="PRINT_PARAMETER" value="false"/>
+    <elementParameter field="CHECK" name="TRANSMIT_ORIGINAL_CONTEXT" show="false" value="true"/>
+    <elementParameter field="RADIO" name="USE_CHILD_JVM_SETTING" show="false" value="true"/>
+    <elementParameter field="RADIO" name="USE_CUSTOM_JVM_SETTING" show="false" value="false"/>
+    <elementParameter field="TABLE" name="JVM_ARGUMENTS" show="false"/>
+    <elementParameter field="TEXT" name="LABEL" value="__PROCESS__"/>
+    <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
+    <metadata connector="FLOW" name="tRunJob_1"/>
+  </node>
+  <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tRunJob_21" offsetLabelX="0" offsetLabelY="0" source="tRunJob_21" target="tRunJob_28">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk5"/>
   </connection>
-  <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tRunJob_36" offsetLabelX="0" offsetLabelY="0" source="tRunJob_36" target="tRunJob_28">
-    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk8"/>
+  <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tRunJob_28" offsetLabelX="0" offsetLabelY="0" source="tRunJob_28" target="tRunJob_45">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk6"/>
   </connection>
   <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tRunJob_45" offsetLabelX="0" offsetLabelY="0" source="tRunJob_45" target="tRunJob_36">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk7"/>
+  </connection>
+  <connection connectorName="SUBJOB_OK" label="OnSubjobOk" lineStyle="1" metaname="tRunJob_1" offsetLabelX="0" offsetLabelY="0" source="tRunJob_1" target="tRunJob_21">
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="OnSubjobOk4"/>
   </connection>
   <subjob>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRunJob_21"/>
@@ -267,13 +293,18 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_b3b17095-bd37-44d5-9be5-27879e7821d4"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Wac6BV6WXhfsSrXcOY2mu/5Rq71JzaAHOU3Z7TY+ewDbALE46anUatcB+Kp/zGQxOr1MZqvjmH5W
-pyQ0J1wrmA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_d1633e99-7a4d-427a-93c4-34e1497107ee"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Z3Th0tPltmFungs+NuVFenlBXPIvI5SNfh1XTO6IFu1105B30/0dAoyDupuqDW4Cek9FNTQumdaO
-zMP6kYWqwQ==</DigestValue></Reference></SignedInfo><SignatureValue>Y0UcQkiir8tQY8MHdYiBQU3/210eXQZoGKngs6vv+SzwS+Fww38YCyCMn1wsGRsXbsjnt/Zr0e7w
-uuilOGkTN/0rZvZ6ykQKk+wLHaTUxri6vYmXk2+WMPIsyPj5TEDotgjgw26dVTz/pHVyQ779oouG
-Cv006B3oh0wTRKvzPJpef1ZmXJbsA424800tY/JeTQvGGxAKDT3JTwxUK4xLPOVsXHbCAIGHkyC/
-NtwwqhZDtm61/XBpUL4ZGUUnnW45OSJZhLu0Wjiy+swJxT6R9HxycyfEOHx1/Xq3EcBAfK7lkzid
-CjejnqH2bcXPBcFFvwTYVx8K358RZglSlyvWLw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+  <subjob>
+    <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tRunJob_1"/>
+    <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
+    <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
+  </subjob>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_ed103285-70f7-4f5a-a273-fcd5864188c3"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>MrvTxrCelFsYdt9W93UlO6AzAz82L50PFVe//P2pvAR99oskdCSgtbYqn15FaE1vrucEskpGErxW
+pcoSw7dPPA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_f30c5eb8-c8ef-41c1-b1d5-372d4d5f368a"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>dHW9TR5kr/SOC/bygm9ukUJwAJffnMNXVNrNdt+fTqWLwodJfzYzs83Hy9s44iAhAsDJvEsocNvF
+CwZ5v9Ms8A==</DigestValue></Reference></SignedInfo><SignatureValue>BodOvp62qOaX6NTaVZceGcPYfp1aPG5aPQJ/4vEHtsmRrEvjNymzFc0vijEGe5dDl+JRG+bM+jGM
+RDNUGjQ7ot8dYa8ZCuhLS5KzL1UDEZi8wLbz/BVCmyY+iFNz5QGstNcd/4t3sJw6goBrjoHsJehv
+67FT3DayjOGjBwT3yDn5dBE4yO4Wyk1kRbUFnWUhuX2/jNednMHOGKOWKxYCyJJ5I5rTXGf+N7cs
+ebJ9TWTbP5xjyd+NhkK4ST+fY/TIFS52v/MXOuJMkwvuNj7kkw7RKJBp1KJIuK4YGt6vFYESyzxp
+Fe0pj25DBjAEazmJfF6T6HWYz1NYDRlM+blHTg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -295,4 +326,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_d1633e99-7a4d-427a-93c4-34e1497107ee" Target="#_b3b17095-bd37-44d5-9be5-27879e7821d4"><Timestamp>2020-10-05 08:57:38</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_f30c5eb8-c8ef-41c1-b1d5-372d4d5f368a" Target="#_ed103285-70f7-4f5a-a273-fcd5864188c3"><Timestamp>2020-10-05 09:56:40</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
