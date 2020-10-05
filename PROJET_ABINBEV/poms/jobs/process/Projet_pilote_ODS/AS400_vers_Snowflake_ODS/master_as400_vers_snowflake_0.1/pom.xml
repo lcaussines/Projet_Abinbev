@@ -30,7 +30,7 @@
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
     <talend.job.jvmargs>-Xms256M -Xmx1024M -Dfile.encoding=UTF-8 </talend.job.jvmargs>
     <talend.job.stat>true</talend.job.stat>
-    <talend.job.context>PROD</talend.job.context>
+    <talend.job.context>DEV</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
     <talend.job.name>Master_AS400_vers_Snowflake</talend.job.name>
@@ -124,42 +124,22 @@
     </dependency>
     <dependency>
       <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_RFARTPF</artifactId>
+      <artifactId>FSTOK9_vers_ODS_V3CDEETBL</artifactId>
       <version>0.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_V3CDEEPF</artifactId>
+      <artifactId>FSTOK9_vers_ODS_V3CDELTBL</artifactId>
       <version>0.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_V3CDELPF</artifactId>
+      <artifactId>FSTOK9_vers_ODS_V3JRNACTPF</artifactId>
       <version>0.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_V3JRNACTPF</artifactId>
-      <version>0.1.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_ADRESPF</artifactId>
-      <version>0.1.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_PARAF</artifactId>
-      <version>0.1.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_V3OPTIDOPF</artifactId>
-      <version>0.1.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>AS400_vers_Snowflake_STKDJJPF</artifactId>
+      <artifactId>FSTOK9_vers_ODS_V3OPTIDOPF</artifactId>
       <version>0.1.0</version>
     </dependency>
   </dependencies>
