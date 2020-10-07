@@ -36,37 +36,12 @@
     <talend.job.name>Master_AS400_vers_Snowflake_Stock</talend.job.name>
     <talend.job.id>_1EqAsAcHEeuqBLmvTIW5ng</talend.job.id>
     <talend.project.id>0</talend.project.id>
-    <talend.job.folder>projet_pilote_ods/as400_vers_snowflake_ods/</talend.job.folder>
+    <talend.job.folder>projet_pilote_abinbev/as400_vers_snowflake_ods/</talend.job.folder>
     <talend.job.framework></talend.job.framework>
     <project.distribution-management.repository.url>${project.distributionManagement.repository.url}</project.distribution-management.repository.url>
     <talend.job.type>Standard</talend.job.type>
   </properties>
   <dependencies>
-    <dependency>
-      <groupId>net.minidev</groupId>
-      <artifactId>accessors-smart</artifactId>
-      <version>1.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.ow2.asm</groupId>
-      <artifactId>asm</artifactId>
-      <version>5.0.3</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.daikon</groupId>
-      <artifactId>audit-common</artifactId>
-      <version>1.8.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.daikon</groupId>
-      <artifactId>audit-log4j2</artifactId>
-      <version>1.8.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-lang3</artifactId>
-      <version>3.8.1</version>
-    </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
       <artifactId>crypto-utils</artifactId>
@@ -76,16 +51,6 @@
       <groupId>org.dom4j</groupId>
       <artifactId>dom4j</artifactId>
       <version>2.1.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>job-audit</artifactId>
-      <version>1.1</version>
-    </dependency>
-    <dependency>
-      <groupId>net.minidev</groupId>
-      <artifactId>json-smart</artifactId>
-      <version>2.2.1</version>
     </dependency>
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
@@ -103,11 +68,6 @@
       <version>2.12.1</version>
     </dependency>
     <dependency>
-      <groupId>org.talend.daikon</groupId>
-      <artifactId>logging-event-layout</artifactId>
-      <version>1.8.0</version>
-    </dependency>
-    <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-api</artifactId>
       <version>1.7.25</version>
@@ -121,11 +81,6 @@
       <groupId>org.example.projet_abinbev.code</groupId>
       <artifactId>routines</artifactId>
       <version>7.3.1</version>
-    </dependency>
-    <dependency>
-      <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>FSTOK9_vers_ODS_STKDJJPF</artifactId>
-      <version>0.1.0</version>
     </dependency>
   </dependencies>
   <build>
