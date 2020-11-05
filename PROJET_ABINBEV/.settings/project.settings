@@ -37,19 +37,19 @@
         "show" : true,
         "field" : "CHECK",
         "name" : "ON_STATCATCHER_FLAG",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "CHECK",
         "name" : "ON_LOGCATCHER_FLAG",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "CHECK",
         "name" : "ON_METERCATCHER_FLAG",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
@@ -61,13 +61,13 @@
         "show" : true,
         "field" : "CHECK",
         "name" : "ON_FILES_FLAG",
-        "value" : "false",
+        "value" : "true",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "DIRECTORY",
         "name" : "FILE_PATH",
-        "value" : "\"C:/Users/syscaussines/workspace/.metadata\"",
+        "value" : "\"C:/Users/syscaussines/Downloads/LogsTALEND\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -115,7 +115,7 @@
         "show" : true,
         "field" : "CLOSED_LIST",
         "name" : "DB_VERSION",
-        "value" : "ORACLE_12",
+        "value" : "jt400-9.8.jar",
         "contextMode" : false
       }, {
         "show" : true,
@@ -138,7 +138,7 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "HOST",
-        "value" : "\"\"",
+        "value" : "context.ASPGEN_AS400_connection_Server",
         "contextMode" : false
       }, {
         "show" : true,
@@ -150,37 +150,37 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "DBNAME",
-        "value" : "\"\"",
+        "value" : "context.ASPGEN_AS400_connection_Database",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "LOCAL_SERVICE_NAME",
-        "value" : "\"\"",
+        "value" : "context.ASPGEN_AS400_connection_Database",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "PROPERTIES",
-        "value" : "\"\"",
+        "value" : "context.ASPGEN_AS400_connection_AdditionalParams",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "SCHEMA_DB",
-        "value" : "\"\"",
+        "value" : "context.ASPGEN_AS400_connection_Database",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TEXT",
         "name" : "USER",
-        "value" : "\"\"",
+        "value" : "context.ASPGEN_AS400_connection_Login",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS",
-        "value" : "enc:system.encryption.key.v1:BkNG+9s57Yn22wITkPJuNNUgpfDDFKM0VzaYdFPg",
+        "value" : "enc:system.encryption.key.v1:DR5bvh3Xat5m7b5gmrUgm/JK1AtC2icZFvuug0+cDZpO3rzf6mxHo0idnBBPlmaEZ/T+caoszCf9ou6fr3dJ1i6wjpA=",
         "contextMode" : false
       }, {
         "show" : true,
@@ -240,13 +240,13 @@
         "show" : true,
         "field" : "TECHNICAL",
         "name" : "PROPERTY_TYPE:PROPERTY_TYPE",
-        "value" : "BUILT_IN",
+        "value" : "REPOSITORY",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "TECHNICAL",
         "name" : "PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE",
-        "value" : "",
+        "value" : "_tID6cAPOEeujIoKG0JhV3Q",
         "contextMode" : false
       } ]
     }
