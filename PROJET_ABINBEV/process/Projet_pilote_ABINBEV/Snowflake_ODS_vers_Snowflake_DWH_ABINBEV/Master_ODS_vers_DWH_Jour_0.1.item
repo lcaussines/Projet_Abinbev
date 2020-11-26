@@ -10,7 +10,7 @@
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_region" prompt="Snowflake_connexion_DWH_DEV_region?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="AWS_US_WEST"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_role" prompt="Snowflake_connexion_DWH_DEV_role?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_schemaName" prompt="Snowflake_connexion_DWH_DEV_schemaName?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:aR4hkqfdygARzJ56bNK5yQyYZF14k09GGHAWGq2wNLjHc/hNQ2jCfzc="/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:KZzxTGf9fnvfb0YmU9Bo78fa5JmNJp2AEVihidoPbze0kmxMo77mMhs="/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_userId" prompt="Snowflake_connexion_DWH_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="APP_TALEND_DEV"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_warehouse" prompt="Snowflake_connexion_DWH_DEV_warehouse?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="WH_ETL_DEV"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_account" prompt="Snowflake_connexion_ODS_DEV_account?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="groupe_bils_deroo"/>
@@ -23,9 +23,9 @@
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_region" prompt="Snowflake_connexion_ODS_DEV_region?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="AZURE_EAST_US_2"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_role" prompt="Snowflake_connexion_ODS_DEV_role?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_schemaName" prompt="Snowflake_connexion_ODS_DEV_schemaName?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_password" prompt="Snowflake_connexion_ODS_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:dLi59LBItK0ZBRc3mWVDiBBdEZzBCB4gc7f1eR1Vmt+I5CmJ4XMqUjqC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_userId" prompt="Snowflake_connexion_ODS_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="lcaussines@bils-deroo.fr"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_warehouse" prompt="Snowflake_connexion_ODS_DEV_warehouse?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="APP_TALEND_DEV"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_password" prompt="Snowflake_connexion_ODS_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:3k0LRhjqA/9zpbsMlNonsOpoQPR24XdeWS7nt9DSZwa1z/+x+M938YD/"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_userId" prompt="Snowflake_connexion_ODS_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="APP_TALEND_DEV"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_warehouse" prompt="Snowflake_connexion_ODS_DEV_warehouse?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="WH_ETL_DEV"/>
   </context>
   <context confirmationNeeded="false" name="PROD">
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_account" prompt="Snowflake_connexion_DWH_DEV_account?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="groupe_bils_deroo"/>
@@ -38,22 +38,22 @@
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_region" prompt="Snowflake_connexion_DWH_DEV_region?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="AWS_US_WEST"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_role" prompt="Snowflake_connexion_DWH_DEV_role?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_schemaName" prompt="Snowflake_connexion_DWH_DEV_schemaName?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:3oPspbC3F/+URlSo3JypNQlnL6f43/0VEzUJv3S6qJmfOfcyUY8zYj8="/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_password" prompt="Snowflake_connexion_DWH_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:YhXxxciXEtzp630eLN79x07cZS4f3Sr8h8TFHDW7TF8li2mmoFePZzo="/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_userPassword_userId" prompt="Snowflake_connexion_DWH_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="APP_TALEND_DEV"/>
     <contextParameter comment="" name="Snowflake_connexion_DWH_DEV_warehouse" prompt="Snowflake_connexion_DWH_DEV_warehouse?" promptNeeded="false" repositoryContextId="_R_SOAAMYEeu798GS06tvfQ" type="id_String" value="WH_ETL_DEV"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_account" prompt="Snowflake_connexion_ODS_DEV_account?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="groupe_bils_deroo"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_authenticationType" prompt="Snowflake_connexion_ODS_DEV_authenticationType?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="BASIC"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_customRegionID" prompt="Snowflake_connexion_ODS_DEV_customRegionID?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="west-europe.azure"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_db" prompt="Snowflake_connexion_ODS_DEV_db?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="DEV_ODS"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_db" prompt="Snowflake_connexion_ODS_DEV_db?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="PROD_ODS"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_jdbcParameters" prompt="Snowflake_connexion_ODS_DEV_jdbcParameters?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_keyAlias" prompt="Snowflake_connexion_ODS_DEV_keyAlias?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_loginTimeout" prompt="Snowflake_connexion_ODS_DEV_loginTimeout?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_Integer" value="15"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_region" prompt="Snowflake_connexion_ODS_DEV_region?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="AZURE_EAST_US_2"/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_role" prompt="Snowflake_connexion_ODS_DEV_role?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value=""/>
     <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_schemaName" prompt="Snowflake_connexion_ODS_DEV_schemaName?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_password" prompt="Snowflake_connexion_ODS_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:Dk5uM1mpFLe/HHBsiRb2Dr8E+rK75ZzVr9tMaUDqk7JunUngw3o9KWl6"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_userId" prompt="Snowflake_connexion_ODS_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="lcaussines@bils-deroo.fr"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_warehouse" prompt="Snowflake_connexion_ODS_DEV_warehouse?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="APP_TALEND_DEV"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_password" prompt="Snowflake_connexion_ODS_DEV_userPassword_password?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_Password" value="enc:system.encryption.key.v1:Y5YPNcL4gS7UIs5j6zFzFpxu9CKHxT79kITkmvZh8K5V+CNYeoOB5Gk="/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_userPassword_userId" prompt="Snowflake_connexion_ODS_DEV_userPassword_userId?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="APP_TALEND_PROD"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_DEV_warehouse" prompt="Snowflake_connexion_ODS_DEV_warehouse?" promptNeeded="false" repositoryContextId="_f0FvwAMaEeu798GS06tvfQ" type="id_String" value="WH_ETL_PROD"/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
@@ -97,7 +97,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:FR4D56S8DnuETOeDH09tKqbSIzYdQewnj/fsnWmL"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:/PpVMy5dnFpd80Udj+KcnbOHhXw7LMZSfiII1p37"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -134,7 +134,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="context.ASPGEN_AS400_connection_AdditionalParams"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="context.ASPGEN_AS400_connection_Database"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ASPGEN_AS400_connection_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:tKEaaMnR5eOHWGSc7e/x9DgGAgOlYkZ1wOStvUJ7nQpRmbilZVIk5l/Yghp7uGNE9aPdY8MtyX/B9fwNdWjAJOO+OlI="/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:6aUZiEgvLWuhcrXygIJ58b5MjTR9HV8/wV8No1T1vNhftV37zW/zAUD4sg1pAX5HnquJ9K+FYzPmrdPYRJu6a7Z0n30="/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
