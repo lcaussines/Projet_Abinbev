@@ -28,7 +28,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH_ABINBEV/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_2_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH_ABINBEV/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH_ABINBEV/ods_v3cdeltbl_rfartpf_vers_dwh_f_commandes_lg_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH_ABINBEV/master_ods_vers_dwh_jour_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_vers_ods_seipf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_hebdomadaire_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_quotidienne_0.1</module>
@@ -37,6 +36,7 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_quotidienne_preparation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH_ABINBEV/ods_rfartpf_parapf_vers_dwh_d_article_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH_ABINBEV/master_ods_vers_dwh_hebdomadaire_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH_ABINBEV/master_ods_vers_dwh_quotidien_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
