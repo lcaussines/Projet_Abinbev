@@ -137,6 +137,11 @@
       <artifactId>FSTOK9_vers_ODS_SEIPF</artifactId>
       <version>0.1.0</version>
     </dependency>
+    <dependency>
+      <groupId>org.example.projet_abinbev.job</groupId>
+      <artifactId>FSTOK9_vers_ODS_PARAF</artifactId>
+      <version>0.1.0</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>${talend.job.finalName}</finalName>
