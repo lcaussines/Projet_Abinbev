@@ -552,6 +552,77 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_OeX48EBWEeul7OowF63U9Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_L1CMwDLwEeuWoe3allffdg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_RpnCAMToEeqcH-JeX2PHRQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_itTa8EBXEeul7OowF63U9Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tID6cAPOEeujIoKG0JhV3Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_RpnCAMToEeqcH-JeX2PHRQ - TEC_CLIENT_EDI",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_itTa8EBXEeul7OowF63U9Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_R0QlkAMfEeu798GS06tvfQ",
     "version" : "0.1",
     "type" : "job"
