@@ -643,6 +643,69 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_EJ1v4EnfEeu3s5OOcTg95A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "PROJET_ABINBEV:_OeX48EBWEeul7OowF63U9Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_ABINBEV:_fiUiIEBWEeul7OowF63U9Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_ABINBEV:_uaNW4EBrEeul7OowF63U9Q",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_tID6cAPOEeujIoKG0JhV3Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_KZbr0DrPEeuTseR9GBoZcg",
     "version" : "0.1",
     "type" : "job"
