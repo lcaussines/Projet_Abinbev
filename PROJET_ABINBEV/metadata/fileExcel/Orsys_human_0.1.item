@@ -211,7 +211,7 @@
       <feature label="MPASSE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMswzEtbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
       <feature label="FK_HUMLIEN" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMswzUtbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
       <feature label="CIB_AFFAIR" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMswzktbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
-      <feature label="FK_AFFAID" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMswz0tbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="FK_AFFAIRD" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMswz0tbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
       <feature label="PAYS_ADR" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMsw0EtbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
       <feature label="FK_LIEU" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMsw0UtbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
       <feature label="FK_PERIODE" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMsw0ktbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
@@ -231,13 +231,13 @@
       <feature label="FKMAJ_SEC" length="255" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_oMsw4EtbEeuMU-7VQVNQJQ" xsi:type="TalendMetadata:MetadataColumn"/>
     </ownedElement>
   </orgomg.cwm.resource.record:RecordFile>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_26c1f648-211e-4b55-bee8-a63131bee75c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Ql6PjJ89ygiQfa+IImIEkfE9D4PalYKiurgkxHXkYCFSMWlioG4+YvGKQcMp/tgUM3AooP2rhndD
-Lm8/PVabkw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_7738d5f3-569f-4b4a-9ef2-1caed062c718"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>v3u1GoyWK+ubK8VvS1/IxKp2JQcRmr1VV8fn+xGGm+vKSusnubgDDrCQN/lWWHPt1H5gxHTcBS2r
-anWFHnnlUg==</DigestValue></Reference></SignedInfo><SignatureValue>Jvu53qGrXAkMNW8HKsibM50A6Z+IXPJEMrkgFXJ/wcLMZdnujeAVZjLh1k/ewpxiYzboSzQq92HU
-N09v5X9cCsxsFDOQsf2wxVYl7zdOjyEyurPjn5nMUMZbG7dspaZgZJ2/JtP11SbqXe4bzLYGav94
-oNa2jk5kyxU8KlJ53qOWZNYRXy/o66WWmzEy34CZun0lzT/w23AiAj40L0FCh5msZ3Kchykp70dR
-IqCVQfoc0a4FvjRKOii1MLjAWlD9RzDhfX0UePhl43SmIo1/7U0lWOiMWtMOQqFT+pd7mjNAhl6h
-9N/oKpwC5v0UUcRfXFFQe+uV4Yg6j9UyeZMu4g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_15c2f256-7b08-4be0-aef4-ac915b728d5c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>jMNxzINYGXQLHUQvpyy4kuzmiGqR94L+OjwXRXtt+AoVKQtRLZB7SJ8z9F/3/9AP9M9KVT5AMymr
+MYg1h/XHWg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_fee5eabf-d115-47ea-81fd-cf07e54d662a"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>BihV0Nj9n/i4jMVN9N5pBfFZF+GKq3V6GAzaAswDmlidkgO5rcICpi2ttRT5dgLYdPskyE4ja005
+c9WCPsCA5w==</DigestValue></Reference></SignedInfo><SignatureValue>EHF9F0feb4gdlFhQh+7hdrFLHmfSLEHEY2JWcL4Qoq7m/hmsIyLpY9HBmucKSTySf6tyOXzHZ63S
+4mAsMtunRuE1ivQnL7KrcqVEdH04uagrW8O1YT/rG9YWEr0TKBiYbkXdSlwUEYNiPHCXLLEzsehR
+15fDufixPx+82YWfKKY/2ik0jv7xGKZCkbXuW5IZ9C5b5iH1AS0zrQd8sxScOhBK01h/0spsPrNB
+UnSUmL95jgLsiGZVyO2GOocaX9fY4EuIa608olqJ7scMDnUXX6qGrC2Azkg2eowiIw9kJ+UGapkc
+orDHrB7UB2ZCCoop4AnySJR+DnSf17B3h7XTEg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -259,4 +259,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_7738d5f3-569f-4b4a-9ef2-1caed062c718" Target="#_26c1f648-211e-4b55-bee8-a63131bee75c"><Timestamp>2020-12-31 11:37:46</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_fee5eabf-d115-47ea-81fd-cf07e54d662a" Target="#_15c2f256-7b08-4be0-aef4-ac915b728d5c"><Timestamp>2020-12-31 11:39:19</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
