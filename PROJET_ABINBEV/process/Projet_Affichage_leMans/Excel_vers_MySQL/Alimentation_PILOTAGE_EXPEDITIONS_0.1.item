@@ -1,48 +1,35 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" defaultContext="Default" jobType="Standard" xmi:version="2.0">
-  <context confirmationNeeded="false" name="Default">
-    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_password" prompt="Snowflake_connexion_ODS_userPassword_password?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Password" value="enc:system.encryption.key.v1:7bMEOlgE6TFSm2pEwGmz0JMLOapp4CFC/S4nDGqc8SwLhCgkkYl4p6w="/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_db" prompt="Snowflake_connexion_ODS_db?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="DEV_ODS"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_jdbcParameters" prompt="Snowflake_connexion_ODS_jdbcParameters?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_authenticationType" prompt="Snowflake_connexion_ODS_authenticationType?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="BASIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_account" prompt="Snowflake_connexion_ODS_account?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="groupe_bils_deroo"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_region" prompt="Snowflake_connexion_ODS_region?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="AZURE_EAST_US_2"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_warehouse" prompt="Snowflake_connexion_ODS_warehouse?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="WH_ETL_DEV"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_loginTimeout" prompt="Snowflake_connexion_ODS_loginTimeout?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Integer" value="15"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_keyAlias" prompt="Snowflake_connexion_ODS_keyAlias?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_schemaName" prompt="Snowflake_connexion_ODS_schemaName?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_role" prompt="Snowflake_connexion_ODS_role?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_customRegionID" prompt="Snowflake_connexion_ODS_customRegionID?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="west-europe.azure"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_userId" prompt="Snowflake_connexion_ODS_userPassword_userId?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="APP_TALEND_DEV"/>
-  </context>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" defaultContext="DEV" jobType="Standard" xmi:version="2.0">
   <context confirmationNeeded="false" name="PROD">
-    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_password" prompt="Snowflake_connexion_ODS_userPassword_password?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Password" value="enc:system.encryption.key.v1:kNUzXlNqfnooSvHMrbMpAgPIJkKkFU9Pevha2V0jgdQDLaXvBOjDwEU="/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_db" prompt="Snowflake_connexion_ODS_db?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PROD_ODS"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_jdbcParameters" prompt="Snowflake_connexion_ODS_jdbcParameters?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_authenticationType" prompt="Snowflake_connexion_ODS_authenticationType?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="BASIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_account" prompt="Snowflake_connexion_ODS_account?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="groupe_bils_deroo"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_region" prompt="Snowflake_connexion_ODS_region?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="AZURE_EAST_US_2"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_warehouse" prompt="Snowflake_connexion_ODS_warehouse?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="WH_ETL_PROD"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_loginTimeout" prompt="Snowflake_connexion_ODS_loginTimeout?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Integer" value="15"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_keyAlias" prompt="Snowflake_connexion_ODS_keyAlias?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_schemaName" prompt="Snowflake_connexion_ODS_schemaName?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_role" prompt="Snowflake_connexion_ODS_role?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_customRegionID" prompt="Snowflake_connexion_ODS_customRegionID?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="west-europe.azure"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_userId" prompt="Snowflake_connexion_ODS_userPassword_userId?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="APP_TALEND_PROD"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_DecimalSeparator" prompt="PILOTAGE_EXPEDITIONS_DecimalSeparator?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_String" value="'.'"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_Encoding" prompt="PILOTAGE_EXPEDITIONS_Encoding?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_String" value="UTF-8"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_File" prompt="PILOTAGE_EXPEDITIONS_File?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_File" value="//srv_fic/LeMans/Exploitation/1- PROD ET FLUX/3-EXPEDITION/planning expeditions/PILOTAGE EXPEDITIONS.xls"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_FirstColumn" prompt="PILOTAGE_EXPEDITIONS_FirstColumn?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="1"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_Header" prompt="PILOTAGE_EXPEDITIONS_Header?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="4"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_LastColumn" prompt="PILOTAGE_EXPEDITIONS_LastColumn?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="26"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_Limit" prompt="PILOTAGE_EXPEDITIONS_Limit?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="50"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_ThousandSeparator" prompt="PILOTAGE_EXPEDITIONS_ThousandSeparator?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_String" value="','"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_AdditionalParams" prompt="VISUEL_MYSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Database" prompt="VISUEL_MYSQL_Database?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="VISUEL"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Login" prompt="VISUEL_MYSQL_Login?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:hNqEvniMso6bLeSb/AnkRpc2Rq8FYS7BPxFOsBD7HrQ3NFgKUByWyfc="/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Port" prompt="VISUEL_MYSQL_Port?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="3306"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Server" prompt="VISUEL_MYSQL_Server?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value=""/>
   </context>
   <context confirmationNeeded="false" name="DEV">
-    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_password" prompt="Snowflake_connexion_ODS_userPassword_password?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Password" value="enc:system.encryption.key.v1:R1SdJ23FjcYm6LiNgAJJMKY7Kg1uOSzAdEv7AApLolTA+JFMCUwhjLE="/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_db" prompt="Snowflake_connexion_ODS_db?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="DEV_ODS"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_jdbcParameters" prompt="Snowflake_connexion_ODS_jdbcParameters?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_authenticationType" prompt="Snowflake_connexion_ODS_authenticationType?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="BASIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_account" prompt="Snowflake_connexion_ODS_account?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="groupe_bils_deroo"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_region" prompt="Snowflake_connexion_ODS_region?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="AZURE_EAST_US_2"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_warehouse" prompt="Snowflake_connexion_ODS_warehouse?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="WH_ETL_DEV"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_loginTimeout" prompt="Snowflake_connexion_ODS_loginTimeout?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Integer" value="15"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_keyAlias" prompt="Snowflake_connexion_ODS_keyAlias?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_schemaName" prompt="Snowflake_connexion_ODS_schemaName?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PUBLIC"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_role" prompt="Snowflake_connexion_ODS_role?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_customRegionID" prompt="Snowflake_connexion_ODS_customRegionID?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="west-europe.azure"/>
-    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_userId" prompt="Snowflake_connexion_ODS_userPassword_userId?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="APP_TALEND_DEV"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_DecimalSeparator" prompt="PILOTAGE_EXPEDITIONS_DecimalSeparator?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_String" value="'.'"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_Encoding" prompt="PILOTAGE_EXPEDITIONS_Encoding?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_String" value="UTF-8"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_File" prompt="PILOTAGE_EXPEDITIONS_File?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_File" value="//srv_fic/LeMans/Exploitation/1- PROD ET FLUX/3-EXPEDITION/planning expeditions/PILOTAGE EXPEDITIONS.xls"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_FirstColumn" prompt="PILOTAGE_EXPEDITIONS_FirstColumn?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="1"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_Header" prompt="PILOTAGE_EXPEDITIONS_Header?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="4"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_LastColumn" prompt="PILOTAGE_EXPEDITIONS_LastColumn?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="26"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_Limit" prompt="PILOTAGE_EXPEDITIONS_Limit?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_Integer" value="50"/>
+    <contextParameter comment="" name="PILOTAGE_EXPEDITIONS_ThousandSeparator" prompt="PILOTAGE_EXPEDITIONS_ThousandSeparator?" promptNeeded="false" repositoryContextId="_E5dgQGnvEeuKuNuTIItDJA" type="id_String" value="','"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_AdditionalParams" prompt="VISUEL_MYSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Database" prompt="VISUEL_MYSQL_Database?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="VISUEL"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Login" prompt="VISUEL_MYSQL_Login?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:cn3OgySlwBmug/UMY00oquFXB5z5fxVZNnYrNWeNq68usg5z2VXn5Yg="/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Port" prompt="VISUEL_MYSQL_Port?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="3306"/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Server" prompt="VISUEL_MYSQL_Server?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value=""/>
   </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
@@ -86,7 +73,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:/Me70kYl1ubPjbafOi1Kh+zKjyVxtTV6EGwLuDDG"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:sro6ZXitAEu+jY/IOTA+IPSaFdvEZX2HNWbC6iep"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -123,7 +110,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="context.ASPGEN_AS400_connection_AdditionalParams"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="context.ASPGEN_AS400_connection_Database"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ASPGEN_AS400_connection_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:E/9sQIFijn1cVv1zv5kxIZG26wHlXbPtlN5g6J23lXJjVg9yaUmBnmwp99sHYVoWtYc+bU2m3wknVUfuKi17S0sLfkA="/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:Ks1NEw70433am1NSDWWb/Ndb+p6Oqj+ZN+AG6rxUQ+DdrCMchAl1t05UIc8O/WA+m7T72qaZ2DmROeaqnWFrUGxR0GQ="/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -166,13 +153,13 @@
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_mWPd8EkSEeufxu_jPxTKJw"/>
     <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="MYSQL_8"/>
-    <elementParameter field="TEXT" name="HOST" value="&quot;&quot;"/>
+    <elementParameter field="TEXT" name="HOST" value="context.VISUEL_MYSQL_Server"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
-    <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;"/>
-    <elementParameter field="TEXT" name="DBNAME" value="&quot;VISUEL&quot;"/>
-    <elementParameter field="TEXT" name="PROPERTIES" value="&quot;noDatetimeStringSync=true&quot;"/>
-    <elementParameter field="TEXT" name="USER" value="&quot;TALEND&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:jAQXFvU09r4Nsqvx+devZvxdvwzV5h2T+AExkn57L/2hSKKxnEsei2QhKQ=="/>
+    <elementParameter field="TEXT" name="PORT" value="context.VISUEL_MYSQL_Port"/>
+    <elementParameter field="TEXT" name="DBNAME" value="context.VISUEL_MYSQL_Database"/>
+    <elementParameter field="TEXT" name="PROPERTIES" value="context.VISUEL_MYSQL_AdditionalParams"/>
+    <elementParameter field="TEXT" name="USER" value="context.VISUEL_MYSQL_Login"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:9Gekv9eagdbMgwSQXgyv4c+IdSdgodhGDlvDAYWJ/WWJBM566c6NBSJdq7XxWJnycVNlHAC7SzSo"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -194,19 +181,19 @@
     <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_oJ71IEE7EeuBVumClp-3kA"/>
     <elementParameter field="CHECK" name="VERSION_2007" value="false"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;//srv_fic/LeMans/Exploitation/1- PROD ET FLUX/3-EXPEDITION/planning expeditions/PILOTAGE EXPEDITIONS.xls&quot;"/>
-    <elementParameter field="PASSWORD" name="PASSWORD" show="false" value="enc:system.encryption.key.v1:b65lgHCrUMmAK5j75SPL+NJY8SXv4uNP+UFEomvA"/>
+    <elementParameter field="FILE" name="FILENAME" value="context.PILOTAGE_EXPEDITIONS_File"/>
+    <elementParameter field="PASSWORD" name="PASSWORD" show="false" value="enc:system.encryption.key.v1:D1JNkpn7MxHLquE3ktrnAUKUJhhc85pVFpdLaCpU"/>
     <elementParameter field="CHECK" name="ALL_SHEETS" value="true"/>
     <elementParameter field="TABLE" name="SHEETLIST" show="false">
       <elementValue elementRef="SHEETNAME" value="&quot;tableau de bord DU JOUR&quot;"/>
       <elementValue elementRef="USE_REGEX" value=""/>
     </elementParameter>
-    <elementParameter field="TEXT" name="HEADER" value="4"/>
+    <elementParameter field="TEXT" name="HEADER" value="context.PILOTAGE_EXPEDITIONS_Header"/>
     <elementParameter field="TEXT" name="FOOTER" value="0"/>
-    <elementParameter field="TEXT" name="LIMIT" value="50"/>
+    <elementParameter field="TEXT" name="LIMIT" value="context.PILOTAGE_EXPEDITIONS_Limit"/>
     <elementParameter field="CHECK" name="AFFECT_EACH_SHEET" value="false"/>
-    <elementParameter field="TEXT" name="FIRST_COLUMN" value="1"/>
-    <elementParameter field="TEXT" name="LAST_COLUMN" value="26"/>
+    <elementParameter field="TEXT" name="FIRST_COLUMN" value="context.PILOTAGE_EXPEDITIONS_FirstColumn"/>
+    <elementParameter field="TEXT" name="LAST_COLUMN" value="context.PILOTAGE_EXPEDITIONS_LastColumn"/>
     <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" show="false" value="_oJ71IEE7EeuBVumClp-3kA - metadata"/>
@@ -309,7 +296,7 @@
       <elementValue elementRef="CONVERTDATE" value="false"/>
       <elementValue elementRef="PATTERN" value="&quot;MM-dd-yyyy&quot;"/>
     </elementParameter>
-    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;UTF-8&quot;"/>
+    <elementParameter field="ENCODING_TYPE" name="ENCODING" value="context.PILOTAGE_EXPEDITIONS_Encoding"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="UTF-8"/>
     <elementParameter field="CHECK" name="READ_REAL_VALUE" value="false"/>
     <elementParameter field="CHECK" name="STOPREAD_ON_EMPTYROW" value="false"/>
@@ -445,7 +432,7 @@
       <additionalProperties key="Comment" value=""/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties/>
+      <uiProperties shellMaximized="true"/>
       <varTables minimized="true" name="Var" sizeState="INTERMEDIATE"/>
       <outputTables name="row2" sizeState="INTERMEDIATE">
         <mapperTableEntries expression="Numeric.sequence(&quot;s1&quot;,1,1) " name="ID" type="id_Integer"/>
@@ -615,11 +602,11 @@
     <elementParameter field="CHECK" name="USE_EXISTING_CONNECTION" value="false"/>
     <elementParameter field="COMPONENT_LIST" name="CONNECTION" show="false" value=""/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
-    <elementParameter field="TEXT" name="HOST" value="&quot;&quot;"/>
-    <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;"/>
-    <elementParameter field="TEXT" name="DBNAME" value="&quot;VISUEL&quot;"/>
-    <elementParameter field="TEXT" name="USER" value="&quot;TALEND&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:0llSy/GOsSHCDJIghTKqvuxXpVCQXvoV9ZE5zwGJxNRrwHOQWS7K/d7Iog=="/>
+    <elementParameter field="TEXT" name="HOST" value="context.VISUEL_MYSQL_Server"/>
+    <elementParameter field="TEXT" name="PORT" value="context.VISUEL_MYSQL_Port"/>
+    <elementParameter field="TEXT" name="DBNAME" value="context.VISUEL_MYSQL_Database"/>
+    <elementParameter field="TEXT" name="USER" value="context.VISUEL_MYSQL_Login"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:AjEeCmiMlaRKsVpD2xQPHagQWz+I8QpD5XLlUayjzhFkgJZtpDFT/Q+Wm1CYtmcdj6xhffE3dwV0"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;expeditions&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="NONE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -630,7 +617,7 @@
     <elementParameter field="TEXT" name="DATASOURCE_ALIAS" show="false" value="&quot;&quot;"/>
     <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
     <elementParameter field="MAPPING_TYPE" name="MAPPING" show="false" value="mysql_id"/>
-    <elementParameter field="TEXT" name="PROPERTIES" value="&quot;noDatetimeStringSync=true&quot;"/>
+    <elementParameter field="TEXT" name="PROPERTIES" value="context.VISUEL_MYSQL_AdditionalParams"/>
     <elementParameter field="CHECK" name="EXTENDINSERT" value="true"/>
     <elementParameter field="LABEL" name="NOTE" value="(Not compatible with reject links)"/>
     <elementParameter field="TEXT" name="NB_ROWS_PER_INSERT" value="100"/>
@@ -898,13 +885,13 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="row3"/>
   </connection>
   <subjob>
-    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" show="false" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPrejob_1"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="230;100;0"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="255;220;180"/>
   </subjob>
   <subjob>
-    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" value="true"/>
+    <elementParameter field="CHECK" name="SHOW_SUBJOB_TITLE" show="false" value="true"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tPostjob_1"/>
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="230;100;0"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="255;220;180"/>
@@ -924,13 +911,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_7e0ff800-5065-4f69-a9d7-7f97c6efad75"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>KBO+C++qfkzcv8pSyB6vPssggR3gD5GjO04c0HfsKLwAwkVyTKenwB/ywLItnZlA8JTbqVIKJL1p
-fx31GslihA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_d9949e8d-0689-4019-b208-7716fc430e15"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>su0GieVOxV6OL5fvHZXMxF6G0HUWl0IIwSZNzXFQNSKw59RYukrV/70F1uf8qGP83/sKd9iAE5TK
-CULy9tHbmQ==</DigestValue></Reference></SignedInfo><SignatureValue>iW3MrDcwcVIpSxsb9VIeT4Dp0HjBv1YRFmBESVW5u7wbup4njl5cPY1HjYG6X0jJZafMx3fU6ggz
-TiVQtsCnhkRUBDYnMR9+uKoJcDHotmvNWVLcsRMd6sjTo9xl4BqA4oMn2qabLFILcms9pjx2De1C
-0FzFq18mDccBO0zpiFiGbRf8ZJKCdbWmGcrGY7EANhZhxp7d0Sf8fH1yxZKxauTrFni06M7qgBLK
-yB3TeDmrdkma9jwIwRtkNPUNtvTtyFOsaCI8pk/fCdb48E61+GT3CNwaq1QXeGvaVbPn62IytX8X
-91BxiUe5kyzT8J5oLRUxZ2R7A1XYIrC+hyNhOA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_fa573355-d003-4ed7-a098-7cfab2d17ee8"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>LidY9y+SaBy8kiDfKzw2NvhIRQe11/5Kmf4ZUIjBKGlLE9mnw8B2Z7XPvwISG8EW9Iten/j0owa5
+JJd5YmB3MQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_7ce982e3-1a77-4810-81c9-ea32f1deb1c4"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>w3QTTbjgTlDMKzosmgBBEAJP4r9Hp7mf7Fx764hvWdD9yB5P44gHvsPc8cwPzymkn6TfXCR0ylB8
+uF3os+NBhg==</DigestValue></Reference></SignedInfo><SignatureValue>GGCpcCL2w1SiV41tHtbAyuUKnRIOozwUS4Q7n01luGkkL58Kjn/N4PwPzR9rwQFncGqTs7NOKUAu
+JsGaa3jUVP+yFxtaqSfjxu3NLyR5mzsBigwU5ya75Tr5bgPL+g7q4LdV5F+Xfa1zm8PuvJZ15/he
+1Hsiqc88SNyuxGl9drcZ070IWJINJbI6acT4k1biJBOgs+DVllxP7h4lsQLar3Yi6AOi4fs1nLok
+eQwHB1BnFUXHO3YsZet4dnU326NtMxicNj9gVYAdaZ36Y2FgrOIjiVSLMGAdnEijfbVaD2Gzb/zc
+GO7UlRCGQmIGEY6xQ9G2l/W9Ci85TOu6t0Di5g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -952,4 +939,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_d9949e8d-0689-4019-b208-7716fc430e15" Target="#_7e0ff800-5065-4f69-a9d7-7f97c6efad75"><Timestamp>2021-02-08 08:57:26</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_7ce982e3-1a77-4810-81c9-ea32f1deb1c4" Target="#_fa573355-d003-4ed7-a098-7cfab2d17ee8"><Timestamp>2021-02-08 09:27:54</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
