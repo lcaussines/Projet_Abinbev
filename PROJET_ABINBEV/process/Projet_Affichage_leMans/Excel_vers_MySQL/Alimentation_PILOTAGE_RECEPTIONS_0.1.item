@@ -8,7 +8,7 @@
     <contextParameter comment="" name="PILOTAGE_RECEPTIONS_File" prompt="PILOTAGE_RECEPTIONS_File?" promptNeeded="false" repositoryContextId="_4fAUQGn6EeuKuNuTIItDJA" type="id_File" value="//srv_fic/LeMans/Planning/PLANNING LE MANS DETAILLE.xls"/>
     <contextParameter comment="" name="PILOTAGE_RECEPTIONS_DecimalSeparator" prompt="PILOTAGE_RECEPTIONS_DecimalSeparator?" promptNeeded="false" repositoryContextId="_4fAUQGn6EeuKuNuTIItDJA" type="id_String" value="'.'"/>
     <contextParameter comment="" name="VISUEL_MYSQL_Login" prompt="VISUEL_MYSQL_Login?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="TALEND"/>
-    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:emuMZHnsBuktN7yOU016HNkOdeZp/sOERneRAoSsjSubISA5Zkk7iQM="/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:bcYMiqLCFkZewiwXuv8QOD+iDhhUyGEYWo+fkGF6iS2tKNaLhFswW2w="/>
     <contextParameter comment="" name="VISUEL_MYSQL_Port" prompt="VISUEL_MYSQL_Port?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="3306"/>
     <contextParameter comment="" name="VISUEL_MYSQL_Server" prompt="VISUEL_MYSQL_Server?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value=""/>
     <contextParameter comment="" name="VISUEL_MYSQL_AdditionalParams" prompt="VISUEL_MYSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="noDatetimeStringSync=true"/>
@@ -17,7 +17,7 @@
   <context confirmationNeeded="false" name="PROD">
     <contextParameter comment="" name="VISUEL_MYSQL_Port" prompt="VISUEL_MYSQL_Port?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="3306"/>
     <contextParameter comment="" name="VISUEL_MYSQL_AdditionalParams" prompt="VISUEL_MYSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="noDatetimeStringSync=true"/>
-    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:JLG+DJ3ZIR2BNivr1qUmeEJRDlQ6NjE6hweJ0BfgjnKjnPbhH4fHb98="/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:sGWPs+usfbCE2RuUaYJQcRgoJVXMtbItmfpilE6NExOUA1z+aEmNPvY="/>
     <contextParameter comment="" name="VISUEL_MYSQL_Server" prompt="VISUEL_MYSQL_Server?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value=""/>
     <contextParameter comment="" name="VISUEL_MYSQL_Database" prompt="VISUEL_MYSQL_Database?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="VISUEL"/>
     <contextParameter comment="" name="VISUEL_MYSQL_Login" prompt="VISUEL_MYSQL_Login?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="TALEND"/>
@@ -32,7 +32,7 @@
   <context confirmationNeeded="false" name="DEV">
     <contextParameter comment="" name="VISUEL_MYSQL_Port" prompt="VISUEL_MYSQL_Port?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="3306"/>
     <contextParameter comment="" name="VISUEL_MYSQL_AdditionalParams" prompt="VISUEL_MYSQL_AdditionalParams?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="noDatetimeStringSync=true"/>
-    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:m9EWISovvBySB/Ewi+8+bI4jMUBI/oNEjDzKOD43bROKDt3m4TWruE4="/>
+    <contextParameter comment="" name="VISUEL_MYSQL_Password" prompt="VISUEL_MYSQL_Password?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_Password" value="enc:system.encryption.key.v1:tyEPG+uj4gmVHmSjmcAHTrGOqP89IzA+86NzN7f53iwUgxbOI682P40="/>
     <contextParameter comment="" name="VISUEL_MYSQL_Server" prompt="VISUEL_MYSQL_Server?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value=""/>
     <contextParameter comment="" name="VISUEL_MYSQL_Database" prompt="VISUEL_MYSQL_Database?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="VISUEL"/>
     <contextParameter comment="" name="VISUEL_MYSQL_Login" prompt="VISUEL_MYSQL_Login?" promptNeeded="false" repositoryContextId="_nepyoGnvEeuKuNuTIItDJA" type="id_String" value="TALEND"/>
@@ -86,7 +86,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:wttS5v8vYp6BIy+j6P2dwlkYD+cIfGr0GvkeChgq"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:6fg+SFTNpPDYHCmFIb0ze0AceJih67dSNfOtCMCL"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -123,7 +123,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="context.ASPGEN_AS400_connection_AdditionalParams"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="context.ASPGEN_AS400_connection_Database"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ASPGEN_AS400_connection_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:Wk3nN5GPDNmdC8CbEMO8k6rwP9Fq7+MX+SyJHkz/6BpNCNvNofX0q3l4L4kPM9OlBHtvVt5dOBr2/8WpyhDZ60nAfJM="/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:2B+oA3s3lB6du1D7cZhZgMG+0kc2bLeRBthsid48GqVhWg9IE5RKEa8o+cappPMg0Yo2AFXfeOvbd43nIhlRfvEvjFo="/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -159,7 +159,7 @@
     <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" show="false" value="_Dy-10FZmEeuUr4bTuTUsAA"/>
     <elementParameter field="CHECK" name="VERSION_2007" value="false"/>
     <elementParameter field="FILE" name="FILENAME" value="context.PILOTAGE_RECEPTIONS_File"/>
-    <elementParameter field="PASSWORD" name="PASSWORD" show="false" value="enc:system.encryption.key.v1:Uy0fWYomnM1qg5+Nbmxe92wAL2wQwR44iZbv9AIY"/>
+    <elementParameter field="PASSWORD" name="PASSWORD" show="false" value="enc:system.encryption.key.v1:mI/viVle0n3Vjqh+qqwURpkghymO79p10YpL6cuN"/>
     <elementParameter field="CHECK" name="ALL_SHEETS" value="false"/>
     <elementParameter field="TABLE" name="SHEETLIST">
       <elementValue elementRef="SHEETNAME" value="&quot;source&quot;"/>
@@ -172,11 +172,13 @@
     <elementParameter field="TEXT" name="FIRST_COLUMN" value="context.PILOTAGE_RECEPTIONS_FirstColumn"/>
     <elementParameter field="TEXT" name="LAST_COLUMN" value="context.PILOTAGE_RECEPTIONS_LastColumn"/>
     <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" show="false" value="_Dy-10FZmEeuUr4bTuTUsAA - metadata"/>
     <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="SCHEMA_REJECT:REPOSITORY_SCHEMA_TYPE" show="false" value="_Dy-10FZmEeuUr4bTuTUsAA - metadata"/>
     <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
-    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" show="false" value="','"/>
-    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" show="false" value="'.'"/>
+    <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" show="false" value="context.PILOTAGE_RECEPTIONS_ThousandSeparator"/>
+    <elementParameter field="TEXT" name="DECIMAL_SEPARATOR" show="false" value="context.PILOTAGE_RECEPTIONS_DecimalSeparator"/>
     <elementParameter field="CHECK" name="TRIMALL" value="false"/>
     <elementParameter field="TABLE" name="TRIMSELECT">
       <elementValue elementRef="SCHEMA_COLUMN" value="Date_arriv_e_d_pot"/>
@@ -295,17 +297,17 @@
       <column comment="" key="false" length="17" name="Identifiant" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="6" name="Cont_Camion" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="9" name="Type" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="6" name="Column6" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="Column6" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="5" name="Contenant" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="Palettes" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="8" name="Poids" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="9" name="Volume" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="10" name="Nb_heures" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="6" name="Nb_heures" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="28" name="Fournisseurs" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="10" name="Op_ration" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="12" name="R_gion" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="4" name="Somme_colis" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="2" name="Somme_R_f" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="4" name="Somme_colis" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="2" name="Somme_R_f" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
       <column comment="" key="false" length="9" name="R_ception_Ok___Nok___quai" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="0" name="Transmission_BR___la_R_ception" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <additionalProperties key="Comment" value=""/>
@@ -317,17 +319,17 @@
       <column comment="" key="false" length="17" name="Identifiant" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="6" name="Cont_Camion" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="9" name="Type" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="6" name="Column6" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="0" name="Column6" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="5" name="Contenant" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="Palettes" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="8" name="Poids" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="9" name="Volume" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="10" name="Nb_heures" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="6" name="Nb_heures" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="28" name="Fournisseurs" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="10" name="Op_ration" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="12" name="R_gion" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="4" name="Somme_colis" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
-      <column comment="" key="false" length="2" name="Somme_R_f" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
+      <column comment="" key="false" length="4" name="Somme_colis" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
+      <column comment="" key="false" length="2" name="Somme_R_f" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_Integer" usefulColumn="true"/>
       <column comment="" key="false" length="9" name="R_ception_Ok___Nok___quai" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="0" name="Transmission_BR___la_R_ception" nullable="true" pattern="&quot;dd-MM-yyyy&quot;" precision="0" type="id_String" usefulColumn="true"/>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
@@ -383,7 +385,7 @@
       <column comment="" key="false" length="10" name="VOLUME" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="false" length="10" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
+      <column comment="" key="false" length="6" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="50" name="FOURNISSEURS" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
@@ -445,8 +447,8 @@
         <mapperTableEntries name="Fournisseurs" nullable="true" type="id_String"/>
         <mapperTableEntries name="Op_ration" nullable="true" type="id_String"/>
         <mapperTableEntries name="R_gion" nullable="true" type="id_String"/>
-        <mapperTableEntries name="Somme_colis" nullable="true" type="id_String"/>
-        <mapperTableEntries name="Somme_R_f" nullable="true" type="id_String"/>
+        <mapperTableEntries name="Somme_colis" nullable="true" type="id_Integer"/>
+        <mapperTableEntries name="Somme_R_f" nullable="true" type="id_Integer"/>
         <mapperTableEntries name="R_ception_Ok___Nok___quai" nullable="true" type="id_String"/>
         <mapperTableEntries name="Transmission_BR___la_R_ception" nullable="true" type="id_String"/>
       </inputTables>
@@ -522,7 +524,7 @@
       <column comment="" key="false" length="20" name="IDENTIFIANT" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="false" length="10" name="CONT_CAMION" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
+      <column comment="" key="false" length="6" name="CONT_CAMION" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="20" name="TYPE_" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
@@ -540,7 +542,7 @@
       <column comment="" key="false" length="10" name="VOLUME" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="false" length="10" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
+      <column comment="" key="false" length="6" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="50" name="FOURNISSEURS" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
@@ -576,10 +578,12 @@
     <elementParameter field="TEXT" name="PORT" value="context.VISUEL_MYSQL_Port"/>
     <elementParameter field="TEXT" name="DBNAME" value="context.VISUEL_MYSQL_Database"/>
     <elementParameter field="TEXT" name="USER" value="context.VISUEL_MYSQL_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:Q2emp+rKqHLSNRWUP38TgtXLWjn2pJETEN2SGyW9jsDAvg2CJmB2fziqVJIALnbFGAMQDcaV/SJp"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:O9YZIekoRToGtjlGU5GT454nE/3YZGF5DFqlYxxO8obAP6tLooxYAj0nv0PNa+NPXm6hEIS9iNOO"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;receptions&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="TRUNCATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_FLOW:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
+    <elementParameter field="TECHNICAL" name="SCHEMA_FLOW:REPOSITORY_SCHEMA_TYPE" show="false" value="_mWPd8EkSEeufxu_jPxTKJw - receptions"/>
     <elementParameter field="LABEL" name="NOTE" value="This option only applies when deploying and running in the Talend Runtime"/>
     <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" value="false"/>
     <elementParameter field="TEXT" name="DATASOURCE_ALIAS" show="false" value="&quot;&quot;"/>
@@ -712,7 +716,7 @@
       <column comment="" key="false" length="20" name="IDENTIFIANT" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="false" length="10" name="CONT_CAMION" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
+      <column comment="" key="false" length="6" name="CONT_CAMION" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="20" name="TYPE_" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
@@ -730,7 +734,7 @@
       <column comment="" key="false" length="10" name="VOLUME" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="false" length="10" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
+      <column comment="" key="false" length="6" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="50" name="FOURNISSEURS" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
@@ -769,7 +773,7 @@
       <column comment="" key="false" length="20" name="IDENTIFIANT" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="false" length="10" name="CONT_CAMION" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
+      <column comment="" key="false" length="6" name="CONT_CAMION" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="20" name="TYPE_" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
@@ -787,7 +791,7 @@
       <column comment="" key="false" length="10" name="VOLUME" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
-      <column comment="" key="false" length="10" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
+      <column comment="" key="false" length="6" name="NB_HEURES" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="Comment" value=""/>
       </column>
       <column comment="" key="false" length="50" name="FOURNISSEURS" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true">
@@ -824,7 +828,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.VISUEL_MYSQL_Database"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="context.VISUEL_MYSQL_AdditionalParams"/>
     <elementParameter field="TEXT" name="USER" value="context.VISUEL_MYSQL_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:t4z88ATrMb7k19EfxtzDlNk8yLnY8/aUqfqRqxaM6yXyCkl1UelLeO6a4GpKGT3iUgOmKJiJSiBn"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:N/pSu7QFO7kKyyNKVlmQ+ifie6PKoQko8Ll4vZCoHa7KFIK0KTVcExpYWkJJsneUrlCeqEhXnmlE"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -1078,13 +1082,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_add17e90-baa7-417f-9e02-5e56e7842e98"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>UyHaBuN1LgMEdLYX+zhYq8p8dPYb543cnp+vxCUL3/Ju8SMldVB+9VIQ7SVbPWzQbq8kmWBqqH2M
-3OnsGwfWAg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_72dd325b-4653-4192-8beb-a3abbcced5f2"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>V2/IR3yd7TqhN/Yihgf+O8YfwLooKS/yHLhHawTSEEU3GIkd6FyLx8ufbFCAVThMJpmp7s6mYzo0
-zWgmLlyvOg==</DigestValue></Reference></SignedInfo><SignatureValue>oBYOm9LnsSYqJBkAv2J6Ov5RE5/Xx/gXXJlAghCgL15D3aNI2HPTrnhNckfUP9SJUl5t6rAzolxs
-BBEqAeTaEOH7ckyxcbS3CJYzfPhOYgq84R3HkTXnYrg2Nn9SXR9GmcRJhGIdTPqcN9LGB0hGBmj5
-JDM92l1NGZsdEUqygIO2aK24HgupjI34pj/oC8HCHxJ5To1yXZ7m5oPVyWvH9YtkMxZxUsly406F
-gHM+EIRFnLOWKxbzmOsq8ktJPbVCcaXJgKYwKtsfLfOCckWndQjQrcrs8sGL0TEf6yw/JFfv9VjV
-FiFBoXlc3K9acTWK28zZ8Z7IrL34kRzxL8qdzw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_6e18afba-0479-45d6-a76b-cb54faa594af"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>eQelstvdt8stUxtcwiazclOECOAlIAAMrNT7MlZZuqHaRJDKNl88Ei21Gux11+ITHHfbMzSG0BwN
+r/05zBACcA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_24b829d3-8bab-4a3c-9011-7a0b602cf035"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>AjE0gbA34uznkWKVhu7EObK06/y6csqVdCFjstlaECtWwnJNt0kZAvsouj+2rmQCGHYPfTb2Z+RO
+CLbu3ObATg==</DigestValue></Reference></SignedInfo><SignatureValue>V/lcQ9f61LCwI+EKpdETU4MDnUco1WxGkBawR8NCm9lf6Eg0CJrGJK4HGWcxxc3TfC8/K1XLGR/O
+hLgkP+GxKzxN8FTi2JmiJc9QCcE0VgTzFU4o9AsIT6GHMMR6REX+sqklUHRlgUVwayc6zdSsja4t
+eD5w8nOkvvaN6P46yJ6R/idwSZHhnNy+o552pUeZXStSpZsKb8hhTFh6WJat+iUn3B0fULMVXHtE
+jVnXo4kYZ7TkPpvJCXUUDPDmHxUkbfgWVGScsZAJNfPotYqO9EoDdohdxUzxLSHICOkfa8+cYMYP
+DVXV7HUxfKvxd9kO9H+4FeXANb2iIDAP/CqaBg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -1106,4 +1110,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_72dd325b-4653-4192-8beb-a3abbcced5f2" Target="#_add17e90-baa7-417f-9e02-5e56e7842e98"><Timestamp>2021-02-08 11:21:32</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_24b829d3-8bab-4a3c-9011-7a0b602cf035" Target="#_6e18afba-0479-45d6-a76b-cb54faa594af"><Timestamp>2021-02-08 11:27:07</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
