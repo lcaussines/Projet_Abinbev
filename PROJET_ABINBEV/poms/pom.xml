@@ -32,7 +32,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/alimentation_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/alimentation_ods_tec_autorisation_0.1</module>
     <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/ctplf_vesr_ods_ctpliapf_0.1</module>
-    <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/ods_cptpliapf_vers_dwh_control_tech_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_hebdomadaire_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_quotidien_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_deptpf_adrespf_vers_dwh_d_depot_0.1</module>
@@ -50,6 +49,7 @@
     <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/zitco_vers_ods_ctrl_zitco_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/ods_ctpliapf_zittie_vers_dwh_control_tech_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/ods_ctpliapf_vers_dwh_control_tech2_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/ods_ctrl_tech_vers_dwh_control_tech_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
