@@ -10,7 +10,6 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/aspgen_vers_ods_deptpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_vers_ods_v3jrnactpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/master_as400_vers_snowflake_jour_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/master_as400_vers_snowflake_semaine_0.1</module>
@@ -53,6 +52,7 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_autorisation_vers_ods_tec_autorisation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_clent_edi_vers_ods_tec_clent_edi_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/aspgen_deptpf_vers_ods_deptpf_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
