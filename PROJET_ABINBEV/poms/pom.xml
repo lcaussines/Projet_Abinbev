@@ -19,7 +19,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_quotidienne_stock_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_hebdomadaire_preparation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_quotidienne_preparation_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/alimentation_ods_tec_clent_edi_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/alimentation_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_hebdomadaire_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_quotidien_0.1</module>
@@ -53,6 +52,7 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3cdeltbl_vers_ods_v3cdeltbl_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3optidopf_vers_ods_v3optidopf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_autorisation_vers_ods_tec_autorisation_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_clent_edi_vers_ods_tec_clent_edi_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
