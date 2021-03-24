@@ -30,7 +30,7 @@
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
     <talend.job.jvmargs>-Xms256M -Xmx1024M -Dfile.encoding=UTF-8 </talend.job.jvmargs>
     <talend.job.stat>true</talend.job.stat>
-    <talend.job.context>Default</talend.job.context>
+    <talend.job.context>PROD</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
     <talend.job.name>Master_Excel_vers_Snowflake</talend.job.name>
@@ -129,17 +129,17 @@
     </dependency>
     <dependency>
       <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>Alimentation_ODS_TEC_AUTORISATION</artifactId>
+      <artifactId>Excel_TEC_AUTORISATION_vers_ODS_TEC_AUTORISATION</artifactId>
       <version>0.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>Alimentation_ODS_TEC_FOURN_CLIENT</artifactId>
+      <artifactId>Excel_TEC_FOURN_CLIENT_vers_ODS_TEC_FOURN_CLIENT</artifactId>
       <version>0.1.0</version>
     </dependency>
     <dependency>
       <groupId>org.example.projet_abinbev.job</groupId>
-      <artifactId>Alimentation_ODS_TEC_CLENT_EDI</artifactId>
+      <artifactId>Excel_TEC_CLENT_EDI_vers_ODS_TEC_CLENT_EDI</artifactId>
       <version>0.1.0</version>
     </dependency>
   </dependencies>
