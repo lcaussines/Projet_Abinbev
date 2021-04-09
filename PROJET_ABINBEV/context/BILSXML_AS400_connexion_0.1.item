@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_kDSiUJk_EeuhEuYsqln9kQ">
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Password" prompt="BILSXML_AS400_connexion_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:HSdeJV1yvDgTF22bCpCUDWUEgWwBt55dMlf37GPEWpBLnZjpuuM=" xmi:id="_kDSiUZk_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_AdditionalParams" prompt="BILSXML_AS400_connexion_AdditionalParams?" promptNeeded="false" type="id_String" value="prompt=false" xmi:id="_kDSiUpk_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Login" prompt="BILSXML_AS400_connexion_Login?" promptNeeded="false" type="id_String" value="TALEND" xmi:id="_kDSiU5k_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Database" prompt="BILSXML_AS400_connexion_Database?" promptNeeded="false" type="id_String" value="BILSXML" xmi:id="_kDSiVJk_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Server" prompt="BILSXML_AS400_connexion_Server?" promptNeeded="false" type="id_String" value="QPOWERM4" xmi:id="_kDSiVZk_EeuhEuYsqln9kQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_kDSiVpk_EeuhEuYsqln9kQ">
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Password" prompt="BILSXML_AS400_connexion_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:+B1fzaSfwvDr1qPnpbwF1hRfNZDZ6GkrbCXIz9ek6PhYpUCPN18=" xmi:id="_kDSiV5k_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_AdditionalParams" prompt="BILSXML_AS400_connexion_AdditionalParams?" promptNeeded="false" type="id_String" value="prompt=false" xmi:id="_kDSiWJk_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Login" prompt="BILSXML_AS400_connexion_Login?" promptNeeded="false" type="id_String" value="TALEND" xmi:id="_kDSiWZk_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Database" prompt="BILSXML_AS400_connexion_Database?" promptNeeded="false" type="id_String" value="BILSXML" xmi:id="_kDSiWpk_EeuhEuYsqln9kQ"/>
+    <contextParameter comment="" name="BILSXML_AS400_connexion_Server" prompt="BILSXML_AS400_connexion_Server?" promptNeeded="false" type="id_String" value="QPOWERM4" xmi:id="_kDSiW5k_EeuhEuYsqln9kQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_6e29236e-3cb4-4ea5-93bb-ee3d45838863"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>wpXK9QaofVlLyxH2ATkMj8qMokaPV9NRITrghmFS28v7UVgjG6najqlUKNQQFio3GQMmfOMlzyoA
+vbSJ7mufMg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_ae910ce6-4221-4dcc-9ef0-295ebfaf671a"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>VesDMCfyn8MW5iTjB/e910So9SO4cFX0we0PmwtZQP7mlxgGqFvY5Ype0atCybV487hxJ3PG0t15
+iK1MgBwPEA==</DigestValue></Reference></SignedInfo><SignatureValue>iejTLI8DW3r+AsIwFRYvMJDAFTtugpZObV2ThrOP7Zj6CeJqwYwaaqtVGGPnZTUa3qSEnsufcIf8
+hG/KbI20ftpmEJxD0A1oPf4LadbDC4wovGzC7pudR+ShYJc1BonVBVkvW63eujdii0j3SKzTj22W
+ROnrk3Rlbg4Y9zqrN2QqWujlmIiVNA7Ec4p6iMquG5endR4kzVOHr7sChOrfGfRXrIWQtKpdhARk
+Z3kV0o3tYqOVguj6ltaSzaFjuWXs4vyQcXHXRtfI97/kA3FfK1ER1Bv6GA56bcMaMXvALZXY1aa9
+y6D9uz7f6iO//LYtcWOxjCCUo2y9Yq8ZPiCqIw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_ae910ce6-4221-4dcc-9ef0-295ebfaf671a" Target="#_6e29236e-3cb4-4ea5-93bb-ee3d45838863"><Timestamp>2021-04-09 14:26:24</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
