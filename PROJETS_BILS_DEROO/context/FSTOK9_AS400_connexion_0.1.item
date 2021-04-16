@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_w2r94J6FEeuatps0yuX6cQ">
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Login" prompt="FSTOK9_AS400_connection_Login?" promptNeeded="false" type="id_String" value="TALEND" xmi:id="_w2r94Z6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Database" prompt="FSTOK9_AS400_connection_Database?" promptNeeded="false" type="id_String" value="FSTOK9" xmi:id="_w2r94p6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Server" prompt="FSTOK9_AS400_connection_Server?" promptNeeded="false" type="id_String" value="QPOWERM4" xmi:id="_w2r9456FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:sBvP0+ewhYdhdMSRxjlrkS5HUSv5plLL1TYoIs/GKwEZzJgARGY=" xmi:id="_w2r95J6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_AdditionalParams" prompt="FSTOK9_AS400_connection_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_w2r95Z6FEeuatps0yuX6cQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_w2r95p6FEeuatps0yuX6cQ">
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Login" prompt="FSTOK9_AS400_connection_Login?" promptNeeded="false" type="id_String" value="TALEND" xmi:id="_w2r9556FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Database" prompt="FSTOK9_AS400_connection_Database?" promptNeeded="false" type="id_String" value="FSTOK9" xmi:id="_w2r96J6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Server" prompt="FSTOK9_AS400_connection_Server?" promptNeeded="false" type="id_String" value="QPOWERM4" xmi:id="_w2r96Z6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:kgzLjLYLCk7VELWU2gtdilnhREXbaaHTPcrSQwS3y0OC0DM6UGI=" xmi:id="_w2r96p6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_AdditionalParams" prompt="FSTOK9_AS400_connection_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_w2r9656FEeuatps0yuX6cQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_46c2f778-ae55-43f6-8d6b-fb39d0c69c5c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>4/s9LAxKIfo/hvdi6wbZdVi1Wk/lKThXYoQSnYXR0MOL72i8MpETD6xuVDqm6B6p79cvPjBiVIR9
+Cmaj35Ca1w==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_eb1f25c0-478f-438d-bac5-13c7c360a265"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>FwADIEdGXxoPL1t0PKEJju+rIhuL8EX6iFHvqVF5r0xh/Dy9C5QXWUcdttVvpGVxAqri2TaqbDQm
+xxlu/dDuCQ==</DigestValue></Reference></SignedInfo><SignatureValue>md2UdvimcCNHjZguZUMHQVW0i+h8wjVAiuoJGkYyldG5oUIVhA2qkOMTNQ6aSTFB4tRIR4uZr++O
+ycGPqRurG+Lc8kkpPGXQuG8e9LK9twNCNPafvmHvR8T91M555zBJy2vyC544pXT0Kama8VJXcnDh
+XDIbvo+BUtvlX65tyc4nmWxoRx6GwGddRSfS6s1M7ZIrJNNR+AHmPzRg3UzNuyUnBXXVxsvq5tiS
+CW9pGQtgGaW9/itVuRlp3UkBl2Ej5t4wdRpptevxLEDnYnWgmJTyPkeQI2kp1hEQChsuCnI1KpEY
+uCgFZ9TunO3g1tgH4hembwVUDBBWq9Xo7NJnHw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_eb1f25c0-478f-438d-bac5-13c7c360a265" Target="#_46c2f778-ae55-43f6-8d6b-fb39d0c69c5c"><Timestamp>2021-04-16 07:31:31</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

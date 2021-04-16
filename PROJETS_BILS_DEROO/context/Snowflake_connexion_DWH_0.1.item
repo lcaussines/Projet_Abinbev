@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_w63TQJ6FEeuatps0yuX6cQ">
+    <contextParameter comment="" name="Snowflake_connexion_DWH_userPassword_userId" prompt="Snowflake_connexion_DWH_userPassword_userId?" promptNeeded="false" type="id_String" value="APP_TALEND_DEV" xmi:id="_w63TQZ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_region" prompt="Snowflake_connexion_DWH_region?" promptNeeded="false" type="id_String" value="AWS_US_WEST" xmi:id="_w63TQp6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_jdbcParameters" prompt="Snowflake_connexion_DWH_jdbcParameters?" promptNeeded="false" type="id_String" value="" xmi:id="_w63TQ56FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_db" prompt="Snowflake_connexion_DWH_db?" promptNeeded="false" type="id_String" value="DEV_DWH" xmi:id="_w63TRJ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_warehouse" prompt="Snowflake_connexion_DWH_warehouse?" promptNeeded="false" type="id_String" value="WH_ETL_DEV" xmi:id="_w63TRZ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_loginTimeout" prompt="Snowflake_connexion_DWH_loginTimeout?" promptNeeded="false" type="id_Integer" value="15" xmi:id="_w63TRp6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_keyAlias" prompt="Snowflake_connexion_DWH_keyAlias?" promptNeeded="false" type="id_String" value="" xmi:id="_w63TR56FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_schemaName" prompt="Snowflake_connexion_DWH_schemaName?" promptNeeded="false" type="id_String" value="PUBLIC" xmi:id="_w63TSJ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_authenticationType" prompt="Snowflake_connexion_DWH_authenticationType?" promptNeeded="false" type="id_String" value="BASIC" xmi:id="_w63TSZ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_role" prompt="Snowflake_connexion_DWH_role?" promptNeeded="false" type="id_String" value="" xmi:id="_w63TSp6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_userPassword_password" prompt="Snowflake_connexion_DWH_userPassword_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:rYWuqrT9sYai5NeqMvaUIWQWEa+qb8T6S4ATd/dxg+PiUHsXSJ5gwUE=" xmi:id="_w63TS56FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_customRegionID" prompt="Snowflake_connexion_DWH_customRegionID?" promptNeeded="false" type="id_String" value="west-europe.azure" xmi:id="_w63TTJ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_account" prompt="Snowflake_connexion_DWH_account?" promptNeeded="false" type="id_String" value="groupe_bils_deroo" xmi:id="_w63TTZ6FEeuatps0yuX6cQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_w63TTp6FEeuatps0yuX6cQ">
+    <contextParameter comment="" name="Snowflake_connexion_DWH_userPassword_userId" prompt="Snowflake_connexion_DWH_userPassword_userId?" promptNeeded="false" type="id_String" value="APP_TALEND_PROD" xmi:id="_w63TT56FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_region" prompt="Snowflake_connexion_DWH_region?" promptNeeded="false" type="id_String" value="AWS_US_WEST" xmi:id="_w63TUJ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_jdbcParameters" prompt="Snowflake_connexion_DWH_jdbcParameters?" promptNeeded="false" type="id_String" value="" xmi:id="_w63TUZ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_db" prompt="Snowflake_connexion_DWH_db?" promptNeeded="false" type="id_String" value="PROD_DWH" xmi:id="_w63TUp6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_warehouse" prompt="Snowflake_connexion_DWH_warehouse?" promptNeeded="false" type="id_String" value="WH_ETL_PROD" xmi:id="_w63TU56FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_loginTimeout" prompt="Snowflake_connexion_DWH_loginTimeout?" promptNeeded="false" type="id_Integer" value="15" xmi:id="_w63TVJ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_keyAlias" prompt="Snowflake_connexion_DWH_keyAlias?" promptNeeded="false" type="id_String" value="" xmi:id="_w63TVZ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_schemaName" prompt="Snowflake_connexion_DWH_schemaName?" promptNeeded="false" type="id_String" value="PUBLIC" xmi:id="_w63TVp6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_authenticationType" prompt="Snowflake_connexion_DWH_authenticationType?" promptNeeded="false" type="id_String" value="BASIC" xmi:id="_w63TV56FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_role" prompt="Snowflake_connexion_DWH_role?" promptNeeded="false" type="id_String" value="" xmi:id="_w63TWJ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_userPassword_password" prompt="Snowflake_connexion_DWH_userPassword_password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:y/hyVCBshXhn7Q8fFufTsI41Vr0062Tpxk+aoTAa0XxQWz5I0E5YsgE=" xmi:id="_w63TWZ6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_customRegionID" prompt="Snowflake_connexion_DWH_customRegionID?" promptNeeded="false" type="id_String" value="west-europe.azure" xmi:id="_w63TWp6FEeuatps0yuX6cQ"/>
+    <contextParameter comment="" name="Snowflake_connexion_DWH_account" prompt="Snowflake_connexion_DWH_account?" promptNeeded="false" type="id_String" value="groupe_bils_deroo" xmi:id="_w63TW56FEeuatps0yuX6cQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_241a35c6-178d-4c19-85c9-d5cbc570a0ae"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>SR9h7ADgbjEPfSQ0brH6/HB9sAXzyHwK9vSr/pJ2+g8AMTrnDkMWJz7w5CxRD/CQUOVEgVS1Imet
+hWKBvtNtKw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_0f34ca95-51a0-4005-a6ac-e7ecb44df1e0"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>q/2DCHGo9HnnHKJcYfVWpSW4exT9jUbfWamZj5+12NuKtw8rOvvygol7Jka9ZEHm2+gspFx66Uho
+UCCs6SnwBw==</DigestValue></Reference></SignedInfo><SignatureValue>Yv8ffwbUPUKkEpsCFRDeqHFDqBiaA2JIFut1KHJBx77WD8bW8p+6MvvEAHsFiz1bXycSUpQUBesH
+tqkVicSOkFotYOEoJld7v+/gFflCFEtK8AIOP/u8PZ5lkKtXXc6pXSLm+6eLvUocy/xlITR9mPxK
+DCONNqpo4a6s/3i2FAgcpYSTBcqwppV+ED3gu6ME2pwry1z4B7cyF/n/zAQ5+U9beRYGm34gEc5D
+/nHVlpL9SzOqnCaf46SZ4W8le+6i3yyAZlTWoXRo+EvvMwoBPFuv7s+vmFL8aVKErR7z9W9tBv7g
+r0ACv9kwaNpcE7ogc9tRkB5fZEYOE0+j5wmgBg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_0f34ca95-51a0-4005-a6ac-e7ecb44df1e0" Target="#_241a35c6-178d-4c19-85c9-d5cbc570a0ae"><Timestamp>2021-04-16 07:31:31</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
