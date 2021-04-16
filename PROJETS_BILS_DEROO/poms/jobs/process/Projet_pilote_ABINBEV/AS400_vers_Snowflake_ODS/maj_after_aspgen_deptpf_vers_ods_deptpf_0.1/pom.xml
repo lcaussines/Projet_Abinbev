@@ -319,6 +319,11 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>snowflake-jdbc-3.12.11</artifactId>
+      <version>6.0.0-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>talend-codegen-utils</artifactId>
       <version>0.28.0</version>
     </dependency>
