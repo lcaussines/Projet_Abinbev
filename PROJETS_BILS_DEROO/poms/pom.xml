@@ -12,7 +12,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/aspgen_deptpf_vers_ods_deptpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_hebdomadaire_preparation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_paraf_vers_ods_paraf_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_vers_ods_stock_v3artpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_adrespf_vers_ods_adrespf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_rfartpf_parapf_vers_dwh_d_article_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_0.1</module>
@@ -73,6 +72,7 @@
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/old_dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
     <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_cndpf_0.1</module>
+    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3artpf_sur_ods_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
