@@ -9,9 +9,9 @@
     <relativePath>../../../../../</relativePath>
   </parent>
   <groupId>org.example.projets_bils_deroo.job</groupId>
-  <artifactId>Alimentation_visu_article</artifactId>
+  <artifactId>Alimentation_Visu_Article</artifactId>
   <version>0.1.0</version>
-  <name>PROJETS_BILS_DEROO Alimentation_visu_article-0.1.0 (0.1,Job Designs)</name>
+  <name>PROJETS_BILS_DEROO Alimentation_Visu_Article-0.1.0 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -33,7 +33,7 @@
     <talend.job.context>Default</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>Alimentation_visu_article</talend.job.name>
+    <talend.job.name>Alimentation_Visu_Article</talend.job.name>
     <talend.job.id>_G06-EMrsEeuTn_AA60gB_g</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.folder>projet_abinbev/snowflake_ods_vers_snowflake_dwh/</talend.job.folder>
