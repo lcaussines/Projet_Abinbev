@@ -57,7 +57,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
     <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/zitco_vers_ods_ctrl_zitco_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3cdeetbl_vers_ods_v3cdeetbl_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_vers_ods_stock_apslogpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_quotidienne_stock_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_rfartpf_vers_ods_rfartpf_0.1</module>
@@ -75,6 +74,7 @@
     <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3stkdtbl_sur_ods_0.1</module>
     <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/alimentation_gestion_vie_article_0.1</module>
     <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/alimentation_visu_article_0.1</module>
+    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_apslogpf_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
