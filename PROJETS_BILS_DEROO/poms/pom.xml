@@ -50,7 +50,6 @@
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_apslogpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_aptierpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_cndpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_deptpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_entbrpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_paraf_sur_ods_0.1</module>
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_rfartpf_sur_ods_0.1</module>
@@ -76,6 +75,7 @@
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_jour_0.1</module>
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_semaine_0.1</module>
     <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/Master/master_excel_vers_snowflake_0.1</module>
+    <module>jobs/process/AS400_FSTOK_vers_Snowflake_ODS/AS400_ASPGEN_vers_Snowflake_ODS/Copie_des_tables/copie_de_la_table_deptpf_sur_ods_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
