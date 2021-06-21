@@ -16,7 +16,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_rfartpf_parapf_vers_dwh_d_article_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3jrnactpf_vers_ods_v3jrnactpf_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3optidopf_vers_ods_v3optidopf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_hebdomadaire_0.1</module>
     <module>jobs/process/Projet_Affichage_leMans/Excel_vers_MySQL/alimentation_pilotage_expeditions_0.1</module>
@@ -48,7 +47,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_quotidienne_stock_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_rfartpf_vers_ods_rfartpf_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/job_test_context_log_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/maj_after_aspgen_deptpf_vers_ods_deptpf_0.1</module>
     <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
     <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
@@ -56,26 +54,28 @@
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/ods_ctrl_tech_vers_dwh_control_tech_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/old_dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3artpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_cndpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_apchgspf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3stkdtbl_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_apslogpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3etapepf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_rfarttbl_sur_ods_0.1</module>
     <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_duree_vie_article_0.1</module>
     <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_gestion_vie_article_0.1</module>
     <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_visu_article_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_aptierpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_entbrpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3attdpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3colxtbl_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3equipf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3hrsrtbl_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3lotpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3mvttbl_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3unitpf_sur_ods_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3urlpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_apchgspf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_apslogpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_aptierpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_cndpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_entbrpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_rfarttbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3artpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3attdpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3colxtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3equipf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3etapepf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3hrsrtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3lotpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3mvttbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3stkdtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3unitpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/copie_de_la_table_v3urlpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/job_test_context_log_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
