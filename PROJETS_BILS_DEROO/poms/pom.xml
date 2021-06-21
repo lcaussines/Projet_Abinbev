@@ -13,7 +13,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_hebdomadaire_preparation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_rfartpf_parapf_vers_dwh_d_article_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3jrnactpf_vers_ods_v3jrnactpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3optidopf_vers_ods_v3optidopf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_hebdomadaire_0.1</module>
     <module>jobs/process/Projet_Affichage_leMans/Excel_vers_MySQL/alimentation_pilotage_expeditions_0.1</module>
@@ -76,6 +75,7 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_stkdjjpf_sur_ods_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3cdeetbl_sur_ods_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3cdeltbl_sur_ods_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3jrnactpf_sur_ods_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
