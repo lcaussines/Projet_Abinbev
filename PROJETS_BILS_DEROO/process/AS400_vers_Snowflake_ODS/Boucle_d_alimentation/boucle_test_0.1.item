@@ -1,5 +1,124 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ProcessType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" defaultContext="Default" jobType="Standard" xmi:version="2.0">
-  <context confirmationNeeded="false" name="Default"/>
+  <context confirmationNeeded="false" name="Default">
+    <contextParameter comment="" name="FSTOK_AS400_connection_AdditionalParams" prompt="FSTOK_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Database" prompt="FSTOK_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="FSTOK"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Login" prompt="FSTOK_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Password" prompt="FSTOK_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:QlawVrHdl75HhWG8Ee5E4Rpnl+iqrL6N3fBbqdc6dJqteiQeKw4="/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Server" prompt="FSTOK_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_AdditionalParams" prompt="FSTOK5_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Database" prompt="FSTOK5_AS400_connection_Database?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="FSTOK5"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Login" prompt="FSTOK5_AS400_connection_Login?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Password" prompt="FSTOK5_AS400_connection_Password?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:utHsZoXNN5b2Em5h0AJpLAk7wObwJCw3Pa7oT7MRkvFnRbQzeYc="/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Server" prompt="FSTOK5_AS400_connection_Server?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_AdditionalParams" prompt="FSTOK8_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Database" prompt="FSTOK8_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="FSTOK8"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Login" prompt="FSTOK8_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Password" prompt="FSTOK8_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:7h9VbdVGFGpsqGwbVxQmePH2Zaim1SnJR83dKQVWQ9af7HDOqxA="/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Server" prompt="FSTOK8_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_AdditionalParams" prompt="FSTOK9_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value=""/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Database" prompt="FSTOK9_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="FSTOK9"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Login" prompt="FSTOK9_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_Password" value="enc:system.encryption.key.v1:Bns9fYzhNI7tCXJc6tECgWAdSNuHNvToHh4/Ze1Cv6BzMh0J2E8="/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Server" prompt="FSTOK9_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_AdditionalParams" prompt="FSTOKHK_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Database" prompt="FSTOKHK_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="FSTOKHK"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Login" prompt="FSTOKHK_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Password" prompt="FSTOKHK_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:1RsFWOCeH6IvLbDzwfp2x3nJpn9mGvZcvr6S/26jliEqaLqVXiI="/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Server" prompt="FSTOKHK_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_account" prompt="Snowflake_connexion_ODS_account?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="groupe_bils_deroo"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_authenticationType" prompt="Snowflake_connexion_ODS_authenticationType?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="BASIC"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_customRegionID" prompt="Snowflake_connexion_ODS_customRegionID?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="west-europe.azure"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_db" prompt="Snowflake_connexion_ODS_db?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="DEV_ODS"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_jdbcParameters" prompt="Snowflake_connexion_ODS_jdbcParameters?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_keyAlias" prompt="Snowflake_connexion_ODS_keyAlias?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_loginTimeout" prompt="Snowflake_connexion_ODS_loginTimeout?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Integer" value="15"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_region" prompt="Snowflake_connexion_ODS_region?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="AZURE_EAST_US_2"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_role" prompt="Snowflake_connexion_ODS_role?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_schemaName" prompt="Snowflake_connexion_ODS_schemaName?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PUBLIC"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_password" prompt="Snowflake_connexion_ODS_userPassword_password?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Password" value="enc:system.encryption.key.v1:mf+FhXbU2NUTJu/XR6WWoheEWcfPkZO5i1MQQm4GCg+n9d5FaMttnSQ="/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_userId" prompt="Snowflake_connexion_ODS_userPassword_userId?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="APP_TALEND_DEV"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_warehouse" prompt="Snowflake_connexion_ODS_warehouse?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="WH_ETL_DEV"/>
+  </context>
+  <context confirmationNeeded="false" name="PROD">
+    <contextParameter comment="" name="FSTOK_AS400_connection_AdditionalParams" prompt="FSTOK_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Database" prompt="FSTOK_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="FSTOK"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Login" prompt="FSTOK_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Password" prompt="FSTOK_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:KxiWJCg51mSrVZ01poEGGagUlpW/w6m8u5zLAhoUegLAaJeTSpo="/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Server" prompt="FSTOK_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_AdditionalParams" prompt="FSTOK5_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Database" prompt="FSTOK5_AS400_connection_Database?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="FSTOK5"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Login" prompt="FSTOK5_AS400_connection_Login?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Password" prompt="FSTOK5_AS400_connection_Password?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:GgMpglzpKgttStk15yvFVgjdXvQ471b4fbzBLpIcM6DSNbBWEXI="/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Server" prompt="FSTOK5_AS400_connection_Server?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_AdditionalParams" prompt="FSTOK8_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Database" prompt="FSTOK8_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="FSTOK8"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Login" prompt="FSTOK8_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Password" prompt="FSTOK8_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:Mj5oy2aIUddnaqZfzT1bzh5/8bngJBJA7OEUXbDNDhQIgZcBk/A="/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Server" prompt="FSTOK8_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_AdditionalParams" prompt="FSTOK9_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value=""/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Database" prompt="FSTOK9_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="FSTOK9"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Login" prompt="FSTOK9_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_Password" value="enc:system.encryption.key.v1:8a1dqM49Ue2v7hr2PcBKr7cXISa5+CkX61tG1fALoEfRHLYD42o="/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Server" prompt="FSTOK9_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_AdditionalParams" prompt="FSTOKHK_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Database" prompt="FSTOKHK_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="FSTOKHK"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Login" prompt="FSTOKHK_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Password" prompt="FSTOKHK_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:YUHT+oX9Hcwo9SVHwFMpY4Jx/ivuR2txxmgrf5KcwCVEzTc2QSw="/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Server" prompt="FSTOKHK_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_account" prompt="Snowflake_connexion_ODS_account?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="groupe_bils_deroo"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_authenticationType" prompt="Snowflake_connexion_ODS_authenticationType?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="BASIC"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_customRegionID" prompt="Snowflake_connexion_ODS_customRegionID?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="west-europe.azure"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_db" prompt="Snowflake_connexion_ODS_db?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PROD_ODS"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_jdbcParameters" prompt="Snowflake_connexion_ODS_jdbcParameters?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_keyAlias" prompt="Snowflake_connexion_ODS_keyAlias?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_loginTimeout" prompt="Snowflake_connexion_ODS_loginTimeout?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Integer" value="15"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_region" prompt="Snowflake_connexion_ODS_region?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="AZURE_EAST_US_2"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_role" prompt="Snowflake_connexion_ODS_role?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_schemaName" prompt="Snowflake_connexion_ODS_schemaName?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PUBLIC"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_password" prompt="Snowflake_connexion_ODS_userPassword_password?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Password" value="enc:system.encryption.key.v1:wCYqoiMU30Q9EQCejYIdDZaGYghPAjZArLNQz9sxNkOw7UT1PHKNv+E="/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_userId" prompt="Snowflake_connexion_ODS_userPassword_userId?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="APP_TALEND_PROD"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_warehouse" prompt="Snowflake_connexion_ODS_warehouse?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="WH_ETL_PROD"/>
+  </context>
+  <context confirmationNeeded="false" name="DEV">
+    <contextParameter comment="" name="FSTOK_AS400_connection_AdditionalParams" prompt="FSTOK_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Database" prompt="FSTOK_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="FSTOK"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Login" prompt="FSTOK_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Password" prompt="FSTOK_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:tgzYNNVFmXFUSbHO1Guyj7xv40Ai9Ln7M4MMTIFg97JvXP2Eyy4="/>
+    <contextParameter comment="" name="FSTOK_AS400_connection_Server" prompt="FSTOK_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_rdokUCNcEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_AdditionalParams" prompt="FSTOK5_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Database" prompt="FSTOK5_AS400_connection_Database?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="FSTOK5"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Login" prompt="FSTOK5_AS400_connection_Login?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Password" prompt="FSTOK5_AS400_connection_Password?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:+febUKju49wUFZoyduDwXqF59saC1ko3YobnyY4RfA/7HrPPU1M="/>
+    <contextParameter comment="" name="FSTOK5_AS400_connection_Server" prompt="FSTOK5_AS400_connection_Server?" promptNeeded="false" repositoryContextId="__rI_cCNcEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_AdditionalParams" prompt="FSTOK8_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Database" prompt="FSTOK8_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="FSTOK8"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Login" prompt="FSTOK8_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Password" prompt="FSTOK8_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:DQLqjFHB9l+Yjabvbke6bAcffltCcTufktvoD2ST9oWfkX/FePc="/>
+    <contextParameter comment="" name="FSTOK8_AS400_connection_Server" prompt="FSTOK8_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_UCViECNdEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_AdditionalParams" prompt="FSTOK9_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value=""/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Database" prompt="FSTOK9_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="FSTOK9"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Login" prompt="FSTOK9_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Password" prompt="FSTOK9_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_Password" value="enc:system.encryption.key.v1:kiiw7vhQwEs0akvJTjP+IZFMKXtJ0uvyFiJYY6PfgmNW6Z3oAgM="/>
+    <contextParameter comment="" name="FSTOK9_AS400_connection_Server" prompt="FSTOK9_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_E7TPkALyEeuGZ6pY4kGuGw" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_AdditionalParams" prompt="FSTOKHK_AS400_connection_AdditionalParams?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="prompt=false"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Database" prompt="FSTOKHK_AS400_connection_Database?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="FSTOKHK"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Login" prompt="FSTOKHK_AS400_connection_Login?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="TALEND"/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Password" prompt="FSTOKHK_AS400_connection_Password?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_Password" value="enc:system.encryption.key.v1:HW9dF7B3wZQ6SetoNKRWc2BtKMbnmt6AAEoQsKMD76lNEvd6RTc="/>
+    <contextParameter comment="" name="FSTOKHK_AS400_connection_Server" prompt="FSTOKHK_AS400_connection_Server?" promptNeeded="false" repositoryContextId="_rN_JUCNdEeuUgZiZBPZM7Q" type="id_String" value="QPOWERM4"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_account" prompt="Snowflake_connexion_ODS_account?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="groupe_bils_deroo"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_authenticationType" prompt="Snowflake_connexion_ODS_authenticationType?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="BASIC"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_customRegionID" prompt="Snowflake_connexion_ODS_customRegionID?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="west-europe.azure"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_db" prompt="Snowflake_connexion_ODS_db?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="DEV_ODS"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_jdbcParameters" prompt="Snowflake_connexion_ODS_jdbcParameters?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_keyAlias" prompt="Snowflake_connexion_ODS_keyAlias?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_loginTimeout" prompt="Snowflake_connexion_ODS_loginTimeout?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Integer" value="15"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_region" prompt="Snowflake_connexion_ODS_region?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="AZURE_EAST_US_2"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_role" prompt="Snowflake_connexion_ODS_role?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value=""/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_schemaName" prompt="Snowflake_connexion_ODS_schemaName?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="PUBLIC"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_password" prompt="Snowflake_connexion_ODS_userPassword_password?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_Password" value="enc:system.encryption.key.v1:G5HV7TZMCBwb10tSejoKnIo8f0QxQiJIY7P4V0zWu7ZgGe0vHy9o8Hg="/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_userPassword_userId" prompt="Snowflake_connexion_ODS_userPassword_userId?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="APP_TALEND_DEV"/>
+    <contextParameter comment="" name="Snowflake_connexion_ODS_warehouse" prompt="Snowflake_connexion_ODS_warehouse?" promptNeeded="false" repositoryContextId="_L1CMwDLwEeuWoe3allffdg" type="id_String" value="WH_ETL_DEV"/>
+  </context>
   <parameters>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_X" show="false" value="0"/>
     <elementParameter field="TEXT" name="SCREEN_OFFSET_Y" show="false" value="0"/>
@@ -42,7 +161,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:qs69mHTH7j6KkPN5oVa1KuFboQ5GY7usPLhxHlW1"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:mFoMSUZt9MmIv8DZ79nK9HvzfPJPU3k7UOB6YA6t"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -77,7 +196,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value=""/>
     <elementParameter field="TEXT" name="USER" value="&quot;TALEND&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:b8rGtaIC1cx7DVGwZVnp3gtcmLxcFW14El6v0I8LTe6ihgjIdVAsaSGF8w=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:UiTaTI28sZ+p9JMSU8XezhnCRdVI4R3+7Y6LscazRbVDqkIRo8TJqDFlrA=="/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" value="&quot;TALEND_STATS&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" value="&quot;TALEND_LOGS&quot;"/>
@@ -410,13 +529,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_7124c44f-c6a9-4a0f-8bfd-ba40a5d85d9c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>95j4Z4DBcHHG5gFbL4WYYsx5iOJhOTjiFQBEpG01ob+KLBRab7LGHGeiclWPmFR/ssap+1W6cFCG
-XylcnZYlsw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_a598ebb7-3e30-4242-8997-4500a95e1cd4"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>jwGl3ij5oewU4uT/238Ai3OXp/TL2jrZ9oAGz8pJ8gaeUufz0wr+cY/vhR+rfujv0qM69ZtbaQbs
-I17vMf48yw==</DigestValue></Reference></SignedInfo><SignatureValue>KOHiE/v6SVbMaMX8mIMkaVg2LVuuk9USSMVz3RYfw08nVAEFX2smccOxPW3dtPDiUVnPK7h8KDi1
-jSkoVgP+NEZp9MCS1jLR9YCqzDJPyI4+hRHZAWq9IFRCKRj1VJ6KUPL8jLV90Whw8iuSL4PFfb8v
-wVmXBIpquQBWmMCu18KtaCJaTDXWLAKVE35oCi1vCZ9pb8PjMrInEmvVa+7YibALNQn/KvAfpTt8
-oBXksuV2UpO70m1ZI56JAxmsJq93eT+/zXz7DqgKeYbhLxqdQF4FRKgp7A2XzAfIv9HVPRUgc/Lu
-nJ+avVnWyVClytG4UJzPJGEEMU/AVyAjg0AZ4w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_3c9862b3-7b13-4425-9d7c-6fc1a0e79824"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>2xouPwkkwvzovgyAVg3ObcIw+e6ks01lcBZPK5n1ETmXkZ++VEBpfU32yrLH7JeonMbpeKtfbjLM
+fkiSbSN6kQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_7e430ebb-4791-4f92-b4bb-a23d2b3d9975"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>a7xYe9TpZBT9dumtQC29RmdgIvRqZw0dtYKarwDCAxnqCqTWjX/x5qeCpHcy9lp/+IbxrHABm3Ij
+6fr1VRXGQw==</DigestValue></Reference></SignedInfo><SignatureValue>d9lJ9zhiffmZhTORK8FbQyGNFVGn5sZMg2Npjui/bM3q9IbIkcPXEoYpQYqj6TgGxqbAwBTGgKWH
+i4oelVtFwcSysyUgWDAkQExOCrZNKT2p9tNuRZd9Deyg4et14SvN568CKBzxyqUw0QrJqRQ6gyDS
+Su712gGrcmQpqX3ZBII+AvjmMkYPTmGZOaWLg5JsWvm3A2bZcZrE+9Ux6lnH5BJkXQf0VitSZkdA
+JdHUJqPhI0NJw187aJqA1DARNuXqoKuMevw5HWi3POm5kIOtKAWxrGZbuSnlcQMkXVd2TCLScjyG
+pFYYl0NPmPS2vNyer/Csjrdvhe8u4Nbm/jMivg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -438,4 +557,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_a598ebb7-3e30-4242-8997-4500a95e1cd4" Target="#_7124c44f-c6a9-4a0f-8bfd-ba40a5d85d9c"><Timestamp>2021-06-21 09:06:20</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_7e430ebb-4791-4f92-b4bb-a23d2b3d9975" Target="#_3c9862b3-7b13-4425-9d7c-6fc1a0e79824"><Timestamp>2021-06-21 09:15:02</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
