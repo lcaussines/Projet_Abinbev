@@ -39,7 +39,6 @@
     <module>jobs/process/Projet_Affichage_leMans/Excel_vers_MySQL/alimentation_pilotage_receptions_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
     <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/zitco_vers_ods_ctrl_zitco_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/fstok9_v3cdeetbl_vers_ods_v3cdeetbl_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/boucle_quotidienne_stock_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/maj_after_aspgen_deptpf_vers_ods_deptpf_0.1</module>
@@ -76,6 +75,7 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_rfartpf_sur_ods_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_seipf_sur_ods_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_stkdjjpf_sur_ods_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/copie_de_la_table_v3cdeetbl_sur_ods_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
