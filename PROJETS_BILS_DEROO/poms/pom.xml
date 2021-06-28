@@ -42,7 +42,6 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_jour_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_semaine_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_excel_vers_snowflake_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_adrespf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_apchgspf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_aptierpf_sur_ods_0.1</module>
@@ -84,6 +83,7 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3rsrtbl_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test02_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_ATF/copie_de_la_table_amarpf_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_BILSXML/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
