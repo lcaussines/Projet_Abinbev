@@ -132,6 +132,11 @@
       <artifactId>Copie_de_la_table_V3EQUIPF_sur_ODS</artifactId>
       <version>0.1.0</version>
     </dependency>
+    <dependency>
+      <groupId>org.example.projets_bils_deroo.job</groupId>
+      <artifactId>Copie_de_la_table_V3LOTPF_sur_ODS</artifactId>
+      <version>0.1.0</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>${talend.job.finalName}</finalName>
