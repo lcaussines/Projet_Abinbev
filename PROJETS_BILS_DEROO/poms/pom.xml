@@ -16,20 +16,15 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeltbl_rfartpf_vers_dwh_f_commandes_lg_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_clent_edi_vers_ods_tec_clent_edi_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_2_0.1</module>
-    <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/ctplf_ctpliapf_vers_ods_ctpliapf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_deptpf_adrespf_vers_dwh_d_depot_0.1</module>
-    <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/zztie_vers_ods_ctrl_zztie_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_stdjjpf_vers_dwh_f_stock_photo_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_autorisation_vers_ods_tec_autorisation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_quotidien_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/alimentation_d_client_depot_user_0.1</module>
     <module>jobs/process/Projet_Affichage_leMans/Excel_vers_MySQL/alimentation_pilotage_receptions_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
-    <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/zitco_vers_ods_ctrl_zitco_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/maj_after_aspgen_deptpf_vers_ods_deptpf_0.1</module>
-    <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
-    <module>jobs/process/Projet_Contol_technique/AS400_vers_Snowflake_ODS/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/old_ods_ctrl_tech_vers_dwh_control_tech_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/ods_ctrl_tech_vers_dwh_control_tech_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/old_dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
@@ -87,6 +82,11 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_preparation_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test02_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3invtpf_sur_ods_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/Copie_des_tables_CTPLF/ctplf_ctpliapf_vers_ods_ctpliapf_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/Copie_des_tables_CTPLF/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/Copie_des_tables_CTPLF/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/Copie_des_tables_CTPLF/zitco_vers_ods_ctrl_zitco_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/Copie_des_tables_CTPLF/zztie_vers_ods_ctrl_zztie_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
