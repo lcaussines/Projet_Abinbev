@@ -29,9 +29,6 @@
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/ods_ctrl_tech_vers_dwh_control_tech_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/old_dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Snowflake_ODS_vers_Snowflake_DWH_CONTROL_TECH/dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_duree_vie_article_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_gestion_vie_article_0.1</module>
-    <module>jobs/process/Projet_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_visu_article_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_hebdomadaire_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_stock_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_jour_0.1</module>
@@ -87,6 +84,9 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3urlpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/job_test_context_log_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_IR6_1FGGG/copie_de_la_table_zitco_sur_ods_0.1</module>
+    <module>jobs/process/Extranet/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_duree_vie_article_0.1</module>
+    <module>jobs/process/Extranet/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_gestion_vie_article_0.1</module>
+    <module>jobs/process/Extranet/Snowflake_ODS_vers_Snowflake_DWH/Extranet_Articles/alimentation_visu_article_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
