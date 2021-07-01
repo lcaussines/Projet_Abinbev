@@ -12,7 +12,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_rfartpf_parapf_vers_dwh_d_article_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_hebdomadaire_0.1</module>
-    <module>jobs/process/Projet_Affichage_leMans/Excel_vers_MySQL/alimentation_pilotage_expeditions_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeltbl_rfartpf_vers_dwh_f_commandes_lg_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_clent_edi_vers_ods_tec_clent_edi_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_2_0.1</module>
@@ -21,7 +20,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_autorisation_vers_ods_tec_autorisation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_quotidien_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/alimentation_d_client_depot_user_0.1</module>
-    <module>jobs/process/Projet_Affichage_leMans/Excel_vers_MySQL/alimentation_pilotage_receptions_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/AS400_vers_Snowflake_ODS/maj_after_aspgen_deptpf_vers_ods_deptpf_0.1</module>
@@ -87,6 +85,8 @@
     <module>jobs/process/Alimentation_DWH_pour_Extranet/Extranet_Articles/alimentation_duree_vie_article_0.1</module>
     <module>jobs/process/Alimentation_DWH_pour_Extranet/Extranet_Articles/alimentation_gestion_vie_article_0.1</module>
     <module>jobs/process/Alimentation_DWH_pour_Extranet/Extranet_Articles/alimentation_visu_article_0.1</module>
+    <module>jobs/process/Projet_Affichage/Excel_vers_MySQL/alimentation_pilotage_expeditions_0.1</module>
+    <module>jobs/process/Projet_Affichage/Excel_vers_MySQL/alimentation_pilotage_receptions_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
