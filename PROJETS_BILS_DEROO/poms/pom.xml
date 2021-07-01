@@ -9,22 +9,11 @@
   <name>PROJETS_BILS_DEROO Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_rfartpf_parapf_vers_dwh_d_article_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_hebdomadaire_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeltbl_rfartpf_vers_dwh_f_commandes_lg_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_2_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_deptpf_adrespf_vers_dwh_d_depot_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_stdjjpf_vers_dwh_f_stock_photo_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/master_ods_vers_dwh_quotidien_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/alimentation_d_client_depot_user_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_hebdomadaire_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_stock_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_jour_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_semaine_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_excel_vers_snowflake_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_rfarttbl_parapf_vers_dwh_d_article_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_sur_les_fstok_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test01_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_preparation_ods_0.1</module>
@@ -87,6 +76,17 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_ODS/excel_tec_clent_edi_vers_ods_tec_clent_edi_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_ODS/maj_after_aspgen_deptpf_vers_ods_deptpf_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/alimentation_d_client_depot_user_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/master_ods_vers_dwh_hebdomadaire_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/master_ods_vers_dwh_quotidien_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_deptpf_adrespf_vers_dwh_d_depot_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_rfartpf_parapf_vers_dwh_d_article_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_rfarttbl_parapf_vers_dwh_d_article_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_stdjjpf_vers_dwh_f_stock_photo_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_2_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
+    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_v3cdeltbl_rfartpf_vers_dwh_f_commandes_lg_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
