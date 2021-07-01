@@ -37,48 +37,11 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_jour_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_semaine_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_excel_vers_snowflake_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_adrespf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_apchgspf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_aptierpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_cndpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_entbrpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_paraf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_rfartpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_rfarttbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_seipf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_stkdjjpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3artpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3attdpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3cdeetbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3cdeltbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3colxtbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3equipf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3etapepf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3hrsrtbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3jrnactpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3lotpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3mvttbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3optidopf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3stkdtbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3unitpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3urlpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/job_test_context_log_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3cdeetbl_avec_fichier_out_in_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_entbepf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_apstucpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_apnserpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_aptrljpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3hstkdtbl_sur_ods_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Snowflake_ODS_vers_Snowflake_DWH/ods_rfarttbl_parapf_vers_dwh_d_article_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3colitbl_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_sur_les_fstok_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test01_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3apslogpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3rsrtbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_dlpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_preparation_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test02_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3invtpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_IR6_1FGGG/copie_de_la_table_zitco_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_IR6_1FGRP/copie_de_la_table_zztie_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ASPGEN/copie_de_la_table_deptpf_sur_ods_0.1</module>
@@ -87,6 +50,43 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/copie_de_la_table_ctpliapf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_adrespf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_apchgspf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_apnserpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_apstucpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_aptierpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_aptrljpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_cndpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_dlpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_entbepf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_entbrpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_paraf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_rfartpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_rfarttbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_seipf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_stkdjjpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3apslogpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3artpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3attdpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3cdeetbl_avec_fichier_out_in_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3cdeetbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3cdeltbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3colitbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3colxtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3equipf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3etapepf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3hrsrtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3hstkdtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3invtpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3jrnactpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3lotpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3mvttbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3optidopf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3rsrtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3stkdtbl_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3unitpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3urlpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/job_test_context_log_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
