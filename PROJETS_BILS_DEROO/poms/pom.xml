@@ -75,7 +75,6 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test01_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3apslogpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3rsrtbl_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_ATF/copie_de_la_table_amarpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_BILSXML/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_dlpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_preparation_ods_0.1</module>
@@ -87,6 +86,7 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_IR6_1FGGG/copie_de_la_table_zitco_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_IR6_1FGRP/copie_de_la_table_zztie_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ASPGEN/copie_de_la_table_deptpf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ATF/copie_de_la_table_amarpf_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
