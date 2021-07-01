@@ -23,8 +23,6 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ATF/copie_de_la_table_amarpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_BILSXML_et_BILSWML9/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/copie_de_la_table_ctpliapf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_adrespf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_apchgspf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_apnserpf_sur_ods_0.1</module>
@@ -87,6 +85,8 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_2_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_v3cdeetbl_optidopf_parapf_vjrnactpf_vers_dwh_f_commandes_ent_3_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/ods_v3cdeltbl_rfartpf_vers_dwh_f_commandes_lg_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
+    <module>jobs/process/Projet_Contol_technique/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
