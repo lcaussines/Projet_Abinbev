@@ -79,14 +79,14 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_preparation_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test02_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_FSTOK/copie_de_la_table_v3invtpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_CTPLF/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_CTPLF/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_CTPLF/copie_de_la_table_ctpliapf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_IR6_1FGGG/copie_de_la_table_zitco_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_IR6_1FGRP/copie_de_la_table_zztie_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ASPGEN/copie_de_la_table_deptpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ATF/copie_de_la_table_amarpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_BILSXML_et_BILSWML9/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/copie_de_la_table_ctpliapf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/old_ods_ctpliapf_vers_ods_ctrl_tech_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
