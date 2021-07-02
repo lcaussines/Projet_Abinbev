@@ -11,7 +11,6 @@
   <modules>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_hebdomadaire_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_stock_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_jour_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_as400_vers_snowflake_semaine_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_excel_vers_snowflake_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_sur_les_fstok_0.1</module>
@@ -90,6 +89,7 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3urlpf_sur_ods_context_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_lgbepf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3attepf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_sur_les_boucles_qui_alimentent_snowflake_depuis_as400_quotidienne_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
