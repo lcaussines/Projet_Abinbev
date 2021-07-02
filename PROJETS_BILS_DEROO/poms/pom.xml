@@ -93,8 +93,8 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/copie_des_tables_as400_des_bibliotheques_fstok_sur_snowflake_quotidienne_03_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/copie_des_tables_as400_des_bibliotheques_fstok_sur_snowflake_quotidienne_02_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/copie_des_tables_as400_des_bibliotheques_fstok_sur_snowflake_quotidienne_04_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_journalaction_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_maj_de_la_table_changementsattributsstock_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_maj_de_la_table_journalaction_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
