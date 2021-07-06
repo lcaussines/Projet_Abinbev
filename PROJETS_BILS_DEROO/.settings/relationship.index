@@ -4497,6 +4497,77 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_grWXEN5UEeusGJj1yPEVHQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_RpnCAMToEeqcH-JeX2PHRQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DataOperation",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Mathematical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Numeric",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Relational",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "StringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDataGenerator",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendDate",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendString",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_RpnCAMToEeqcH-JeX2PHRQ - STOCK_V3COLITBL",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_RpnCAMToEeqcH-JeX2PHRQ - STOCK_V3COLITBL_TEMP",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Rl-UAJ6FEeuatps0yuX6cQ--MergeInsert",
+    "version" : "Latest",
+    "type" : "sqlPattern"
+  }, {
+    "id" : "_RlOtIJ6FEeuatps0yuX6cQ--Commit",
+    "version" : "Latest",
+    "type" : "sqlPattern"
+  }, {
+    "id" : "_RmFowJ6FEeuatps0yuX6cQ--MergeUpdate",
+    "version" : "Latest",
+    "type" : "sqlPattern"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_hu8d8Jk7EeuhEuYsqln9kQ",
     "version" : "0.1",
     "type" : "job"
