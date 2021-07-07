@@ -57,9 +57,6 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_v3urlpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/job_test_context_log_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_IR6_1FGGG/copie_de_la_table_zitco_sur_ods_0.1</module>
-    <module>jobs/process/Alimentation_DWH_pour_Extranet/Extranet_Articles/alimentation_duree_vie_article_0.1</module>
-    <module>jobs/process/Alimentation_DWH_pour_Extranet/Extranet_Articles/alimentation_gestion_vie_article_0.1</module>
-    <module>jobs/process/Alimentation_DWH_pour_Extranet/Extranet_Articles/alimentation_visu_article_0.1</module>
     <module>jobs/process/Projet_Affichage/Le_Mans/alimentation_pilotage_expeditions_0.1</module>
     <module>jobs/process/Projet_Affichage/Le_Mans/alimentation_pilotage_receptions_0.1</module>
     <module>jobs/process/Projet_Contol_technique/Alimentation_du_DWH_CONTROL_TECH_sur_Snowflake/dwh_control_tech_vers_dwh_control_tech_top_0.1</module>
@@ -100,6 +97,9 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/update_de_la_table_stock_v3colittbl_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_maj_de_la_table_des_colis_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/alimentation_extranet_atlantic_stock_global_0.1</module>
+    <module>jobs/process/Alimentation_DWH_pour_Extranet/Articles/alimentation_duree_vie_article_0.1</module>
+    <module>jobs/process/Alimentation_DWH_pour_Extranet/Articles/alimentation_gestion_vie_article_0.1</module>
+    <module>jobs/process/Alimentation_DWH_pour_Extranet/Articles/alimentation_visu_article_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
