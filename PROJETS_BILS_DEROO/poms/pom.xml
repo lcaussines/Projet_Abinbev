@@ -14,7 +14,6 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Master/master_excel_vers_snowflake_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test01_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_preparation_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/test02_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_IR6_1FGRP/copie_de_la_table_zztie_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ASPGEN/copie_de_la_table_deptpf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ATF/copie_de_la_table_amarpf_0.1</module>
@@ -100,6 +99,7 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_maj_du_la_table_du_journal_des_transactions_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/update_de_la_table_stock_v3colittbl_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_maj_de_la_table_des_colis_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/alimentation_extranet_atlantic_stock_global_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
