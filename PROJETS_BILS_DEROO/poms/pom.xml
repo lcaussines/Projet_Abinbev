@@ -16,7 +16,6 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_preparation_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_IR6_1FGRP/copie_de_la_table_zztie_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ASPGEN/copie_de_la_table_deptpf_sur_ods_0.1</module>
-    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ATF/copie_de_la_table_amarpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_BILSXML_et_BILSWML9/bilsxml_et_bilsxml9_vers_ods_stock_abjrnpf_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_CTPLF/copie_de_la_table_ctpliapf_sur_ods_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_adrespf_sur_ods_0.1</module>
@@ -103,6 +102,7 @@
     <module>jobs/process/Alimentation_DWH_pour_Extranet/Atlantic/alimentation_extranet_atlantic_avis_expedition_0.1</module>
     <module>jobs/process/Alimentation_DWH_pour_Extranet/Atlantic/alimentation_extranet_atlantic_avis_expedition_detail_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/copie_de_la_table_nseriepf_sur_ods_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ATF/copie_de_la_table_amarmpf_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
