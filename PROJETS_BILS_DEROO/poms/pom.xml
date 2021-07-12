@@ -65,7 +65,6 @@
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_ODS/excel_tec_autorisation_vers_ods_tec_autorisation_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_ODS/excel_tec_clent_edi_vers_ods_tec_clent_edi_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_ODS/excel_tec_fourn_client_vers_ods_tec_fourn_client_0.1</module>
-    <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_ODS/maj_after_aspgen_deptpf_vers_ods_deptpf_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/alimentation_d_client_depot_user_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/master_ods_vers_dwh_hebdomadaire_0.1</module>
     <module>jobs/process/Projet_pilote_ABINBEV/Alimentation_des_tables_du_DWH_de_Snowflake/master_ods_vers_dwh_quotidien_0.1</module>
@@ -106,6 +105,7 @@
     <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_des_Bibliotheques_FSTOK/update_de_la_table_stock_v3rsrtbl_0.1</module>
     <module>jobs/process/AS400_vers_Snowflake_ODS/Boucle_d_alimentation/boucle_quotidienne_maj_de_la_table_des_reservations_de_stock_0.1</module>
     <module>jobs/process/Alimentation_DWH_pour_Extranet/Atlantic/alimentation_extranet_atlantic_tracabilite_0.1</module>
+    <module>jobs/process/AS400_vers_Snowflake_ODS/Copie_des_tables_de_la_Bibliotheque_ASPGEN/maj_after_aspgen_deptpf_vers_ods_deptpf_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
