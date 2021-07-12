@@ -9,9 +9,9 @@
     <relativePath>../../../../../</relativePath>
   </parent>
   <groupId>org.example.projets_bils_deroo.job</groupId>
-  <artifactId>Alimentation_D_CLIENT_DEPOT_USER_du_DWH</artifactId>
+  <artifactId>Alimentation_de_la_table_D_CLIENT_DEPOT_USER_du_DWH</artifactId>
   <version>0.1.0</version>
-  <name>PROJETS_BILS_DEROO Alimentation_D_CLIENT_DEPOT_USER_du_DWH-0.1.0 (0.1,Job Designs)</name>
+  <name>PROJETS_BILS_DEROO Alimentation_de_la_table_D_CLIENT_DEPOT_USER_du_DWH-0.1.0 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -24,7 +24,7 @@
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>PROJETS_BILS_DEROO</talend.project.name>
     <talend.product.version>7.3.1.20200219_1130</talend.product.version>
-    <talend.job.finalName>alimentation_d_client_depot_user_du_dwh_0_1</talend.job.finalName>
+    <talend.job.finalName>alimentation_de_la_table_d_client_depot_user_du_dwh_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.projets_bils_deroo.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.projets_bils_deroo.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
@@ -33,7 +33,7 @@
     <talend.job.context>PROD</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>Alimentation_D_CLIENT_DEPOT_USER_du_DWH</talend.job.name>
+    <talend.job.name>Alimentation_de_la_table_D_CLIENT_DEPOT_USER_du_DWH</talend.job.name>
     <talend.job.id>_-Bd0EEB1Eeul7OowF63U9Q</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.folder>projet_pilote_abinbev/alimentation_des_tables_du_dwh_de_snowflake/</talend.job.folder>
